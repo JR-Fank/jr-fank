@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '它想重新定义充电器颜值：硬糖 35W 充电器'
-pubDate: 2035-03-25
+pubDate: 2022-09-29
 description: '“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款'
 author: 'Chen shilin'
 cover:
