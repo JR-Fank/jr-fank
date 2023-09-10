@@ -2,8 +2,8 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '它能吃掉你的全家桶设备 —— PITAKA 桌面万能充电基站'
 pubDate: 2021-3-26
-description: '如何从学校踏入暴雪娱乐、DNEG等游戏和视觉特效巨擘，经历鼓舞人心的三位3D美术师给出了他们的专业建议。'
-author: '虚幻引擎官网'
+description: '可能还有朋友不太清楚 PITAKA Air Omni lite 是什么。它就是一台 六合一无线充电器让你的数码设备在一处地方「即放即充」，桌面不再是那杂乱无章的样子。'
+author: 'Chen shilin'
 cover:
     url: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
     square: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
