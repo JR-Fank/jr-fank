@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/udjgn9.jpg'
     square: 'https://p.ipic.vip/udjgn9.jpg'
     alt: 'cover'
-tags: ["特写", "环保", "Apple", "印度", "红树林", "保育", "新闻稿"]
+tags: ["饮水机", "产品", "测评"]
 theme: 'dark'
 featured: true
 ---
