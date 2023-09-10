@@ -1,9 +1,9 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Apple 推出新款 HomePod，带来突破性音质与智能体验'
-pubDate: 2035-03-25
-description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
-author: 'Apple Newsroom'
+title: '它想重新定义充电器颜值：硬糖 35W 充电器'
+pubDate: 2022-09-29
+description: '“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款'
+author: 'Chen shilin“
 cover:
     url: 'https://p.ipic.vip/ilibod.JPG'
     square: 'https://p.ipic.vip/ilibod.JPG'
