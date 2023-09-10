@@ -23,21 +23,21 @@ featured: true
 
 看到这张图片，我的桌面一度被电子产品和充电器支配
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817545.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817545.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817545.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 我的桌面其实还算干净，但长期被一堆电子产品和各式充电器霸占着，即便有了多口氮化镓充电器，也避免不了线材缠绕、杂乱无章的常态
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817369.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817369.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817369.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 平常就几部手机，有空陪跑 SNKRS ，而这些设备需要 Lightning 和 Type-C 数据线以及快充头数不胜数；Apple Watch 一块，AirPods 一个，都需要无线充电器；另外，虽然 iPhone可以共用一套充电插头，但是不可能给二件套同时充电，因此 Lightning 的数据线以及对应插座还得再准备一套
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60)
 
 看到 PITAKA 产品的第一眼，表面的芳纶纤维和碳纤维材质就把我吸引了，特别炫酷。这套六合一桌面充电基站，可同时为 iPhone、Apple Watch、AirPods、以及安卓手机等电子产品充电
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 有一说一，抛开价格来说 PITAKA 的产品确实不错，真的细节做的特别棒，而且还是让你一目了然的用法，下面就让我为大家简单分享一下这款桌面神器
 
@@ -45,35 +45,35 @@ featured: true
 
 这次我拿到的是牛皮纸材质的环保包装，另外还有黑胡桃木皮版和灰色布艺版可选。手稿封面的简笔画介绍了产品的功能等内容，整体风格挺符合 PITAKA 的设计风格。
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081782.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081782.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081782.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 第一感觉感觉还是很帅的，附赠的配件也特别有意思，这个磁吸式卡扣，可以吸附在正面充电孔位置。
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817163.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817163.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817163.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817419.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817419.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817419.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817907.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817907.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817907.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 产品正面通体覆盖着芳纶纤维，这种特殊的纹理摸起来特别亲肤
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817864.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817864.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817864.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 PITAKA 的产品非常标志性设计采用芳纶纤维打造的配件，这种材质拥有强度高、韧性好、重量轻、耐高温、耐磨损等特点
 
 好奇的我试着拿小刀去刮它，这时它的防刮耐磨的特点就体现出来了，但事实上……已经直接把表面给划伤了，当然这也是极端下的测试「请勿模仿」
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817973.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817973.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817973.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 中框与底壳采用的是锌合金材质，打磨处理得十分到位
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817782.jpg?size=1921x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817782.jpg?size=1921x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817782.jpg?size=1921x1080&imageMogr2/format/jpeg/quality/60)
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817484.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817484.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817484.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 正面可以看到下边是手机无线充电区域功率最高支持 10w，左上方是给耳机无线充电的区域功率 5w，中间是 Apple Watch 充电区域功率 5w，而上方还有一个可在 USB-C 和 Lightning 之间切换的接口，功率最高支持 18w
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817750.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817750.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817750.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
 ![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817990.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817990.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
