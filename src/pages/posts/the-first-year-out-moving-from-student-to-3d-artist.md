@@ -15,7 +15,7 @@ featured: true
 
 我的工作台上还算干净，但每当我睡觉的时候就得挨个为各种数码产品充电，虽然桌子上面的东西我布置的比较满意，但是桌子的另一处因为有太多电源线散落着，看起来不怎么美观。开年第一篇文章，这次跟大家分享一下我对这台 PITAKA Air Omni lite 桌面万能充的使用体验和分享
 
-[![image.jpeg](%E5%AE%83%E8%83%BD%E5%90%83%E6%8E%89%E4%BD%A0%E7%9A%84%E5%85%A8%E5%AE%B6%E6%A1%B6%E8%AE%BE%E5%A4%87%20%E2%80%94%E2%80%94%20PITAKA%20%E6%A1%8C%E9%9D%A2%E4%B8%87%E8%83%BD%E5%85%85%E7%94%B5%E5%9F%BA%E7%AB%99%2001a3a5994d1d4508b0b41ba011337f0f/image.jpeg)](https://p.ipic.vip/rdbkfu.jpeg)
+![](https://p.ipic.vip/rdbkfu.jpeg)
 
 可能还有朋友不太清楚 PITAKA Air Omni lite 是什么。它就是一台 六合一无线充电器，个头一般。它可以让你的数码设备在一处地方「即放即充」。桌面不再是那杂乱无章的样子。遗憾的是如果你有 Apple Watch 买回来还需要搭配上一根磁力充电线
 
