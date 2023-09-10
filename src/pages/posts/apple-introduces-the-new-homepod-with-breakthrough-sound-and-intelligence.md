@@ -5,8 +5,8 @@ pubDate: 2022-09-29
 description: '“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款'
 author: 'Chen shilin“
 cover:
-    url: 'https://p.ipic.vip/ilibod.JPG'
-    square: 'https://p.ipic.vip/ilibod.JPG'
+    url: '![]https://p.ipic.vip/ilibod.JPG'
+    square: '![]https://p.ipic.vip/ilibod.JPG'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "HomePod"] 
 theme: 'light'
