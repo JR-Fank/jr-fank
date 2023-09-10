@@ -7,7 +7,7 @@ author: 'Chen shilin“
 cover:
     url: '![](https://p.ipic.vip/ilibod.JPG)'
     square: '![](https://p.ipic.vip/ilibod.JPG)'
-    alt: 'cover'
+    alt: '![](https://p.ipic.vip/ilibod.JPG)'
 tags: ["新闻稿", "Apple", "HomePod"] 
 theme: 'light'
 featured: true
