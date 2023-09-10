@@ -19,7 +19,7 @@ featured: true
 
 如今这个时代喜欢打游戏的年轻人越来越多，三五成群一起开黑打游戏，那叫一个舒服！但大型端游使用键盘和鼠标是往往无法尽兴的，并且还没有震动反馈，这也就是近几年游戏手柄成为众多游戏爱好者更为追求的游戏外设之一
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301660.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301660.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301660.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
 但对我而言，价格高昂的游戏手柄实在顶不住，相反我一直有在关注国内品牌北通的这款「北通阿修罗3S游戏手柄」三百多的价格就可以体验霍尔扳机，可谓深得我心，今天我们就一起来看看这款游戏手柄表现如何？
 
