@@ -35,7 +35,7 @@ featured: false
 
 iPhone 系列手机发热严重已经不是一时半会了，即便是在秋天和冬天也会比其它Android 手机更容易发烫，虽然 iPhone 内部构造极为简洁，空间紧密，但缺少足够的散热位置，从 iPhone X 开始苹果就开始使用双层主板设计，将 CPU 夹在中间，缺少散热，发热自然就蹭蹭上去了，这也曾一度让我苦不堪言
 
-![|inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2020/10/10/2020101012120627.jpg?size=1472x828&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2020/10/10/2020101012120627.jpg?size=1472x828&imageMogr2/format/jpeg/quality/60)
 
 打着团战突然的温度过高自我保护「断网+强制冻屏」
 
