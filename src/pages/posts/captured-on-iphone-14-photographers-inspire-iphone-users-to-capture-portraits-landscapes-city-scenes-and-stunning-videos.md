@@ -1,12 +1,12 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
-pubDate: 2035-09-01
+pubDate: 2023-09-09
 description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
 author: 'Chen shilin'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
+    url: 'https://picshack.net/ib/7rS5Y0jQdd'
+    square: 'https://picshack.net/ib/7rS5Y0jQdd'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
 theme: 'dark'
@@ -17,7 +17,7 @@ featured: true
 
 ![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg)
 
-通过 iPhone 14 Pro Max，iPhone 14 Pro，iPhone 14 以及 iPhone 14 Plus 上突破性创新的摄像头系统，中国的摄影师们拍摄并分享令人惊艳的照片和视频，以此激励更多 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。
+通过 iPhone 14 Pro Max，iPhone 14 Pro，iPhone 14 以及 iPhone 14 Plus 上突破性创新的摄像头系统，中国的摄影师们拍摄并分享令人惊艳的照片和视频，以此激励更多 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。https://www.notion.so/f3fefbec3e914961be422ba623ae481c?pvs=4#03ef6a5efe0a4566a393a5b642728b78
 
 ![小北 使用 iPhone 14 Pro 超广角摄像头于福州拍摄。 |inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Ultra-wide-camera-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
 
