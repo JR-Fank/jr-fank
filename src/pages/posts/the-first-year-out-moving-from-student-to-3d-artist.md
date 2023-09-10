@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '毕业第一年：从学生向3D美术师的转变'
-pubDate: 2035-8-01
+title: '它能吃掉你的全家桶设备 —— PITAKA 桌面万能充电基站'
+pubDate: 2021-3-26
 description: '如何从学校踏入暴雪娱乐、DNEG等游戏和视觉特效巨擘，经历鼓舞人心的三位3D美术师给出了他们的专业建议。'
 author: '虚幻引擎官网'
 cover:
@@ -13,104 +13,172 @@ theme: 'dark'
 featured: true
 ---
 
+我的工作台上还算干净，但每当我睡觉的时候就得挨个为各种数码产品充电，虽然桌子上面的东西我布置的比较满意，但是桌子的另一处因为有太多电源线散落着，看起来不怎么美观。开年第一篇文章，这次跟大家分享一下我对这台 PITAKA Air Omni lite 桌面万能充的使用体验和分享
 
+![image.jpeg](%E5%AE%83%E8%83%BD%E5%90%83%E6%8E%89%E4%BD%A0%E7%9A%84%E5%85%A8%E5%AE%B6%E6%A1%B6%E8%AE%BE%E5%A4%87%20%E2%80%94%E2%80%94%20PITAKA%20%E6%A1%8C%E9%9D%A2%E4%B8%87%E8%83%BD%E5%85%85%E7%94%B5%E5%9F%BA%E7%AB%99%2001a3a5994d1d4508b0b41ba011337f0f/image.jpeg)
 
-我们都知道，无论哪个领域，离开学校进入职场的感觉有多么令人生畏。你具备合适的技能吗？你学到的技术能在你获得的工作中发挥作用吗？这足以让你夜不能寐。
+可能还有朋友不太清楚 PITAKA Air Omni lite 是什么。它就是一台 六合一无线充电器，个头一般。它可以让你的数码设备在一处地方「即放即充」。桌面不再是那杂乱无章的样子。遗憾的是如果你有 Apple Watch 买回来还需要搭配上一根磁力充电线
 
-最近，我们采访了一些3D美术师，他们谈到了离开学校，在游戏开发、视觉特效和沉浸式媒体等行业中找到新工作后，自己是如何度过这一转型时期的。如果你有兴趣了解可转移技能、你可能存在的缺漏以及不同3D岗位的日常工作，这篇文章正好适合你。
+## ｜无处不在的设备
 
-## Kris Yu：暴雪娱乐副环境美术师
+看到这张图片，我的桌面一度被电子产品和充电器支配
 
-在《暗黑破坏神4》团队中，团队中的新人环境美术师的日常工作是怎样的？按照Kris Yu的说法，通常，她首先要登录系统，完成游戏开发引擎的同步，然后开始处理分配给她的环境任务。对于该团队的美术师来说，时间管理至关重要，按时完成任务是成功的基础。Kris说：“重点不在于‘尽最大努力’或‘创造最好的美术作品’，而是必须遵守时间安排，确保一切顺利。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817545.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817545.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-她学到了一个有用的技巧，那就是将与任务相关的所有说明和图片全部列出来。一旦完成，她就会在上面打勾。由于每处环境所需的细节程度各不相同，她或她的团队很容易遗漏一些需要解决的问题，而这种方法能够帮助Kris避免出差错。
+我的桌面其实还算干净，但长期被一堆电子产品和各式充电器霸占着，即便有了多口氮化镓充电器，也避免不了线材缠绕、杂乱无章的常态
 
-很快，她又了解到，电子游戏行业的工作需要大量沟通和团队协作，在家办公时尤其如此。“在这个行业中，能够大胆直言，表达自我，并倾听他人的意见是至关重要的。”Kris说，“人们已经预料到我会提出问题，犯下错误。我不会因为自己的错误而感到懊悔和不安，我会吸取教训并改正，这将使我成长得更快。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817369.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817369.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-为了更清楚地了解每天的任务，Kris会定期通过语音与同事及团队领导交流。她的团队还会上传视频，在每周的回顾会议中互相提供反馈，她说这是一种很好的学习方式，也体现出了同事对游戏开发的热情。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-Kris认为，如果自己在进入新工作之前更深入地学习了设计方面的知识就好了。当她还是一名学生时，她倾向于将其他美术师的概念设计当作起点，在这个基础上创建3D环境。有了那种坚实的基础，Kris只需要做出一些小改动，就能完善整体环境。
+平常就几部手机，有空陪跑 SNKRS ，而这些设备需要 Lightning 和 Type-C 数据线以及快充头数不胜数；Apple Watch 一块，AirPods 一个，都需要无线充电器；另外，虽然 iPhone可以共用一套充电插头，但是不可能给二件套同时充电，因此 Lightning 的数据线以及对应插座还得再准备一套
 
-当Kris开始与《暗黑破坏神4》的团队协作处理场景构建任务后，她需要进一步顾及3D空间中的玩法设计，但她认为自己缺乏基础设计方面的经验。“我的个人项目不像可玩的游戏那样错综复杂，在游戏中，可移动摄像机所展示的各个角度都应该完美。”Kris说，“所以我还要继续学习空间设计，我已经在阅读建筑类的书籍了，希望学到更多关于建筑结构的知识。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60)
 
-那么，Kris如何一毕业就能在暴雪找到工作？她在2022年的Rookie Awards中获得了游戏开发年度新秀奖，其作品还在2022年虚幻引擎学生作品展中展出过。如果你经常访问虚幻引擎网站，甚至可能已经看过她的作品，只是没有注意到而已！
+看到 PITAKA 产品的第一眼，表面的芳纶纤维和碳纤维材质就把我吸引了，特别炫酷。这套六合一桌面充电基站，可同时为 iPhone、Apple Watch、AirPods、以及安卓手机等电子产品充电
 
-![图片由Kris Yu提供](https://cdn2.unrealengine.com/student-to-3d-artist-kris-1-1920x1080-edbf5490e1b7.jpg?resize=1&w=1920)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-在诺蒙学院时，她创作的废弃工厂环境还被评为“学期最佳”，这帮助她在成为美术师的道路上迈向了一个新台阶。“这件作品的灵感源自我最喜欢的电子游戏《最后生还者》。”Kris说，“顽皮狗的游戏是我来美国学习游戏美术的动因，我想重现他们的风格，通过环境本身讲述故事。”这是她使用虚幻引擎5创作的第一个项目，用到了许多新技术和技能，还做了一些实验。Kris的所有资产都是在Maya中建模的，随后，她使用ZBrush进行雕刻，并通过Substance Painter和Designer应用经过平铺和烘焙的纹理。
+有一说一，抛开价格来说 PITAKA 的产品确实不错，真的细节做的特别棒，而且还是让你一目了然的用法，下面就让我为大家简单分享一下这款桌面神器
 
-![图片由Kris Yu提供](https://cdn2.unrealengine.com/student-to-3d-artist-kris-4-1920x1080-f944dc364420.jpg?resize=1&w=1920)
+## ｜长得怎么样？
 
-然而，失败是成功之母。Kris承认，在创作获奖项目之前，她在另一个项目中犯了一些错误。“我的研究工作做得不好，在早期阶段缺乏耐心。”Kris说，“我太急于进入项目，后来才发现我收集的参考资料不足以让我根据概念图完成作品。所以我选择启动新项目，而不是继续完成一个有太多问题需要解决的旧项目。”
+这次我拿到的是牛皮纸材质的环保包装，另外还有黑胡桃木皮版和灰色布艺版可选。手稿封面的简笔画介绍了产品的功能等内容，整体风格挺符合 PITAKA 的设计风格。
 
-犯了这个错误后，Kris会花费更多时间为她的场景寻找大量参考图片。她甚至还亲自前往了其中一个地点。“我花了大约两个月的时间，专门收集参考资料和设计草图。说实话，时间有点长，但这是我所有四件作品中最精致的项目。”Kris说。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081782.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081782.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![图片由Kris Yu提供](https://cdn2.unrealengine.com/student-to-3d-artist-kris-9-1920x1080-30b604ffff3f.jpg?resize=1&w=1200)
+第一感觉感觉还是很帅的，附赠的配件也特别有意思，这个磁吸式卡扣，可以吸附在正面充电孔位置。
 
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817163.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817163.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-最后，如果你正在研究实时技术，请竭尽全力将自己和作品展现在公众眼前，这么做是值得的。这意味着你将开启新的大门，获得新的机遇。问问Kris就知道了。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817419.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817419.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-“在2022年的Rookie Awards中获奖后，我得到了很多出现在公众视野中的机会，这在一定程度上帮助我成为了暴雪娱乐《暗黑破坏神4》团队中的全职副环境美术师。”Kris说，“当我在今年的The Game Awards中看到这款游戏后，我终于感觉自己是一名专业的美术师了。”
-Kris给出了以下专业提示：
-在深入细节之前，先关注全局
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817907.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817907.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-“我强烈建议你更加注重对整体环境建立起清晰的认识。我见过很多学生直接就钻入微小的细节，比如在一个道具上花太多时间，但如果整体结构存在问题，那就等于是在浪费时间。”
-记录项目的过程
+产品正面通体覆盖着芳纶纤维，这种特殊的纹理摸起来特别亲肤
 
-“你未来的雇主很在意这个过程，即使你制作的是一个简单的灰盒模型，或是犯了一个严重的错误导致项目失败，都应该将过程记录下来。它将展现你的思路和发挥创意解决问题的能力。这也是我能够获得面试机会，随后进入暴雪工作的部分原因。”
-展示你的作品
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817864.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817864.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-“大多数3D美术师都会在ArtStation上发布作品，我强烈建议你订阅专业版账户，这样可以在公众面前增加知名度。ArtStation甚至还为学生提供了订阅折扣。比如说，《暗黑破坏神4》的美术总监在那里看了我的作品集后，就在LinkedIn上联系了我。我也会在LinkedIn上发布作品，因为很多专业美术师和招聘人员都在那里寻找候选人。”
+PITAKA 的产品非常标志性设计采用芳纶纤维打造的配件，这种材质拥有强度高、韧性好、重量轻、耐高温、耐磨损等特点
 
-![这是一段很长的文字，用来添加图片描述](https://cdn2.unrealengine.com/student-to-3d-artist-kris-10-1920x1080-dbdd2eb1622e.jpg?resize=1&w=1920)
+好奇的我试着拿小刀去刮它，这时它的防刮耐磨的特点就体现出来了，但事实上……已经直接把表面给划伤了，当然这也是极端下的测试「请勿模仿」
 
-## Josh Carstens：DNEG管线技术总监助理
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817973.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817973.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-Josh最初进入DNEG工作时，是在长片动画部门担任管线技术总监助理，为《加菲猫》和Netflix的原创圣诞电影《那年圣诞》等正在制作的节目提供支持。尽管他在学校积累了不少虚拟制片经验，并因此吸引了DNEG的注意，但他还没有机会运用它们。然而他相信，机会迟早会到来。
+中框与底壳采用的是锌合金材质，打磨处理得十分到位
 
-他的团队为美术师、制片协调员、节目主管提供3D管线方面的支持，有时也会相互提供支持。支持任务包括帮助美术师解决与渲染、绑定和模型相关的问题，让他们能够通过DNEG多年积累的内部工具套件完成开发任务。这一切都是为了确保长篇动画电影的制作过程尽可能顺利。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817782.jpg?size=1921x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817782.jpg?size=1921x1080&imageMogr2/format/jpeg/quality/60)
 
-当Josh开始在DNEG工作时，他颇有感触——对许多学生来说，当他们结束学业和实习，找到毕业后的第一份工作时，或许会体会到相似的感受。“我在DNEG的职责与实习期间的工作相反，都是软件和编程方面的，属于传统的3D动画制作，严格说来，这些都不是我在学校时的学习重点。”Josh说，“但既然我已经熟悉了所有基础知识，我可以在此基础上更进一步，熟悉Python和影片制作过程。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817484.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817484.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-在入职DNEG之前，Josh在Production Resource Group（PRG）有过一段短暂但富有成效的实习经历，这帮助他熟练地掌握了虚拟制片技术。“在实习中，硬件是我们的主要关注点，而且创作形式自由，现在想来，我仍感觉十分新奇。我从中深入地了解了LED技术，对我接下来的学期大有帮助。”Josh说。
-图片由Josh Carstens提供
-对于年轻的3D美术师来说，当进入一个岗位时，他们会希望自己已经掌握了某些特定的知识，这是合情合理的。Josh指出，总体而言，他认为自己如果具备更多关于Git和版本控制系统的知识就好了。“我有过这样的经历，我曾花大量时间为我的工作仓库变更基底，然后它闲置了一个月，这时有更新进来了，于是我必须弄清楚如何将我的代码与更新合并。”Josh说，“如果很多内部仓库都有自己的系统，需要据此决定如何建立分支和贡献代码，你可能会感觉很头疼。”然而，Josh在学习过程中的大部分任务都是使用C++或MATLAB完成的，所以他对编程的熟悉程度有助于他应对目前的工作。
+正面可以看到下边是手机无线充电区域功率最高支持 10w，左上方是给耳机无线充电的区域功率 5w，中间是 Apple Watch 充电区域功率 5w，而上方还有一个可在 USB-C 和 Lightning 之间切换的接口，功率最高支持 18w
 
-在罗彻斯特理工学院时，Josh曾导演过影片《Reverie》，他日益丰富的虚拟制片技能再次得到了运用。项目由他主导，因此他能够做出富有创意的决定，然后在虚幻引擎中工作，完成后期制作。“我处理了一些紧急状况，例如，我们的Axis Studio授权加密狗在拍摄前故障了，我需要让支持人员连夜给我们邮寄一个新的，否则我们就完全不能使用动作捕捉了。”Josh说，“能够领导这样一个项目，我感觉很满足。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817750.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817750.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![图片由Josh Carstens提供](https://cdn2.unrealengine.com/student-to-3d-artist-josh-1-1920x1080-8e9c77913e3a.jpg?resize=1&w=1920)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817990.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817990.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-他还认为，虚拟制片和虚幻引擎是一对最佳搭档。“在Epic Games的推动下，虚幻引擎成了虚拟制片的代名词，而且它的授权条款对于新手也非常友好，如果你的计算机显卡和CPU符合要求，那么它就是你的理想之选。”Josh说。
+切换开关就是前端的按键，按进去切换到苹果Lightning，松开就是USB-C，夸夸设计师，但有一点：接口处有点松动，不是特别方便对位插上充电，「不过可能接口松动的设计，是为了避免设备充电中遇到碰撞，从而伤到充电口的情况」
 
-虚拟制片新手可以看看虚幻引擎网站上的众多学习资源，它们可以补充你所使用的其他教育资源的缺漏之处。
-Josh给出了一条建议：
-“为了在DNEG工作，我从纽约州北部搬到了加拿大的蒙特利尔。在这个过程中，搬到新城市时的社交孤立感是我必须面对的问题，尤其是，我在这里无法说母语。在我以前的生活中，我从来没有离开过家人和朋友，我的生活方式发生了很大的改变，我觉得我没有做好充足的准备。然而，我已经认识到，这种感觉非常正常，我想对其他具有相同处境的年轻专业人士说，你并不孤单。花点时间适应，不要害怕与其他人交往。”DNEG最近开始为员工提供免费的法语课程，Josh希望能够借此机会认识其他部门的新朋友。寻找处境类似的其他人（如别的新员工）是减少孤立感的好方法。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817332.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817332.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-Lara Rende：德雷塞尔大学学生
-Lara尚未毕业，但她对资深专家所使用的工具并不感到陌生。事实上，我们对她的故事了解得越多，就越觉得即将毕业的学生能够从中受到鼓舞。
+侧面，红色按键是 Apple Watch 充电器的「发射」开关。旁边还设计了一个 UBS-C 和 USB-A 快充接口，官方标定是最大输出18W，这个后面再聊
 
-“不要害怕。”Lara说，“我还记得，我的教授在大一的第一堂课上就打开了Maya，在第二堂课上打开了虚幻引擎4。最初，这会让人感到不知所措，但那时我绝不会想到，到了大四，我会参与这么多项目。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817827.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817827.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-她之所以能够积累如此丰富的经验，部分原因是她的教授们都知道，她渴望尝试新出现的沉浸式技术。他们曾指导Lara参与宾夕法尼亚州当地植物园的联合研究项目。Lara不仅能够帮忙重现一座历史悠久的建筑（杜邦故居），还可以在这个过程中同时运用多种技术，包括iOS激光雷达、摄影测量和虚幻引擎5。
+红色“发射”按钮按下之后，Apple Watch 充电器支架就会缓慢弹起，不过没有附带 Apple Watch 的充电器，注意需要自己搭配手表的充电线才可以使用，可弹立式手表支架也方便了单圈表带用户的充电问题，在一定程度上极大的方便了我们夜间读取时间
 
-![图片由Lara Rende提供](https://cdn2.unrealengine.com/student-to-3d-artist-lara-3-1920x1080-8a6460ca2b0c.jpg?resize=1&w=1920)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817373.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817373.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-虽然摄影参考资料是3D建模的重要资源，但对Lara来说，最好的方法还是亲自参观一个地方。她花了一天时间游览长木花园，这不仅有助于她感受这个地方的整体状况，还能直接观察到她的团队要重现的房屋，这份经历最终成了Lara在这个项目中最珍爱的时刻。“那一天，我收获了许多参考照片、视频和个人笔记。”Lara说，“在这座历史悠久的建筑里，我知道我正在做的项目将帮助人们看到这个地方300年前的样子，这让我感觉心潮澎湃。”
+当我拆开后盖要换上充电线时，发现一开始附赠的一块翘片派上了用场
 
-然而，尽管Lara的团队使用激光雷达和摄影测量技术扫描了杜邦故居，但他们选择将它们留作参考，在Maya中为房屋建模，这样可以在虚幻引擎中自由地为它添加纹理并制作动画。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817507.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817507.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-除了3D建模外，Lara还热衷于学习动作捕捉技术。作为德雷塞尔动作捕捉社团的现任社长，她不仅帮助教导社团成员了解动作捕捉的完整过程，还与朋友们一起完成了独立的动作捕捉实践。有时候，她也会单纯享受捕捉韩流舞蹈动作的乐趣。
+安装也挺简单的，直接把充电器小圆环卡进去，线从下边预留的位置穿下来即可
 
-Lara最近参加了导演Ian Fursa独立虚拟制片的拍摄，并测试了这些动作捕捉技能。借此机会，她能够通过绝佳视角了解到摄影棚的拍摄过程。拍摄期间，Lara帮助搭建了摄影棚环境，并根据需要配置了动作捕捉摄像机，以便将Vicon追踪到的数据传入虚幻引擎。她还负责建立和拆解布景，操作动作捕捉系统，设置虚拟制片屏幕，以及标记捕捉对象。当她与Remington Scott合作，为Meta制作Notorious B.I.G.的Sky’s The Limit VR演唱会时，她再次采用了这一流程，并取得了巨大的成功。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081734.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081734.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![动态展示](https://cdn2.unrealengine.com/mocap-shoot-fall-00205c43b83c.gif?resize=1&w=1920)
+底部设计了收纳槽，做了很多固定设计把线理好，插到 USB 母口就行，这个细节还是挺赞的
 
-那么，这名最忙碌的学生现在在做什么呢？她很快就要毕业了。不忙于学习的时候，Lara会腾出时间寻找工作，她也在考虑攻读研究生课程是否是最好的选择。且不管她如何选择，她说：“我知道，无论我毕业后做什么工作，我都会继续学习和探索。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817317.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817317.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-显然，当Lara进入职场时，3D建模、摄影测量和动作捕捉等方面的实践经验将对她大有帮助。但她的好奇心和不断学习的动力才是真正值得我们学习的。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817547.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817547.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-![图片由Lara Rende提供](https://cdn2.unrealengine.com/student-to-3d-artist-lara-1-1920x1080-f4917c6683f7.jpg?resize=1&w=1920)
+我还发现了一个细节，旁边还设计了一个隐藏式的抽屉储物槽，算是最大化的利用空间了，可以放一些易丢难找的小配件，弹开以后还会亮灯
 
-## Lara给出了以下专业提示：
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817891.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817891.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-“在提供给我的所有项目中，我都会全身心投入。当教授需要我在虚幻引擎中创建一个可玩的VR关卡时，即使我没有任何经验，我还是硬拼着完成了。我参与的所有项目都将为我提供非常宝贵的学习经验。如果你真的想在3D领域做出一些成就，就全身心地投入进来吧。人们可以方便地获取到许多工具和教程。虚幻引擎5是免费的！慢慢来，相信自己。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817286.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817286.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+完整体就是这样子了，一体性还是挺强的，满满的极客风
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817754.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817754.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+## ｜用得怎么样？
+
+一个字「充」，三个设备，iPhone、AirPods、Apple Watch 同时实现充电
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817178.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817178.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+我一直很好奇它手机充电的位置，看说明书是由多线圈无线线圈设计的，可以很好解决无线充电手机对位对手机的苛刻，避免出现第二天起床发现昨晚手机没充电的情况……
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817212.jpg?size=1170x658&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817212.jpg?size=1170x658&imageMogr2/format/jpeg/quality/60)
+
+像我这样随手一放没有在充电感应线圈内是不行的
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081797.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+链式线圈的设计和其他单线圈设计相比，不用刻意去对准线圈，更方便对上苹果手机内置的线圈，但手机也需要按照指示框的方向放下去，使苹果手机内部的线圈能对上，如果是像我这样不规范放置也是会自动断开充电的！
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817391.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817391.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+并且产品本身设计是给一部手机进行充电的，多台无线充电是肯定不行的！
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081725.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081725.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+放在感应框内才是正确充电姿势
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2021/03/26/9122542259625637-1616751930381.JPG?size=3132x1762&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2021/03/26/9122542259625637-1616751930381.JPG?size=3132x1762&imageMogr2/format/jpeg/quality/60)
+
+前面说到 PITAKA 的设计很有细节，在 Apple Watch 充电器的后面我就发现了是有磁吸的，原因就是因为这个小组件。这是一个为设备提供支撑的支架，通过磁吸可以架上平板和手机，不得不说 PITAKA 这波磁吸很有想法
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081784.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081784.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+这会边吃饭边煲剧就爽歪歪了
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817443.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817443.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+不论放在桌面还是床头，PITAKA Air Omni Lite 都可以优雅的解决多设备充电的问题
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817312.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817312.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+旁边的 1A1C，经我测试单C支持 20W 的PD快充，1A1C 同时使用时无法开启快充，适用于睡觉前为备用机充电
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817249.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817249.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+## ｜适不适合我？
+
+产品正面尺寸差不多一个手大小
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2021/03/26/24778689434564105-1616751971798.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2021/03/26/24778689434564105-1616751971798.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60)
+
+总重约 853克 出头，重得挺有份量的，摆放在床头或者书桌非常得体，说是解决桌面杂乱线材的神器一点也不为过
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817736.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130817736.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+现在一个设备就可以完成大部分设备的充电，更重要的是避免了耳机或者手表忘记充电的尴尬问题。能同时满足所有设备充电的需求，不管是安卓、iPhone，还是Lightning、Type-C端口都能充，兼容性强，充电速度快。最重要的是它能将电子设备收纳在了一起，芳纶纤维材质也可以防护电子设备在充电时的磕碰
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081730.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313081730.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
+
+## ｜在哪买？
+
+￥899元 的定价可以让你摆脱各种乱七八糟的线，不再为场景切换充电而烦恼，如果你的电子设备多，又希望桌面整洁，一定要入这款六合一充电基站，期待PITAKA带来更多更好的新品。
+
+## ｜总结
+
+亮点：可同时为六个电子设备充电，支持多种快充协议，充电表现不错 芳纶纤维和锌合金材质打造，美观耐用 适合多设备人群
+
+改进：“为了环保” 没有配备手表的充电模组 18w 功率放在当下有点勉强，建议提高功率以供电脑充电
+
+![](%E5%AE%83%E8%83%BD%E5%90%83%E6%8E%89%E4%BD%A0%E7%9A%84%E5%85%A8%E5%AE%B6%E6%A1%B6%E8%AE%BE%E5%A4%87%20%E2%80%94%E2%80%94%20PITAKA%20%E6%A1%8C%E9%9D%A2%E4%B8%87%E8%83%BD%E5%85%85%E7%94%B5%E5%9F%BA%E7%AB%99%2001a3a5994d1d4508b0b41ba011337f0f/20210313130816660.jpg)
+
+得益于芳纶纤维的材质，PITAKA Air Omni lite 适合放的地方更多。比如书桌，床头柜。它不会那么抢眼，甚至很容易融入房间的环境。在你想充上电或者需要它的时候很容易感知到它的存在。
