@@ -25,11 +25,11 @@ keywords: key1, key2, key3
 
 很难相信早前我最钟意的“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款，该有的一系列快充协议都不在话下，最高输出来到了35w ，为你的爱机设备包含 iPhone 14 系列在内的所有手机快速充电，一整个实用性进一步提升
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/2022092821091989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60]
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/2022092821091989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/2022092821091989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
 那么这次制糖工厂又给我们带来了什么不一样呢？外包装充斥着（ReMake 再造）的设计语言，硬糖 GaN 迷你快充头在支持 35w 多协议快充下还能保持如此美妙的身材，属实到位了！
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60]
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
 ![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210921166.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210921166.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
@@ -86,6 +86,3 @@ keywords: key1, key2, key3
 ![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919473.jpg?size=5609x3156&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919473.jpg?size=5609x3156&imageMogr2/format/jpeg/quality/60)
 
 如今这个充电器泛滥的市场，缺的还是与众不同的设计，独特的设计语言，为好设计买单渐渐成了我主流的购入方向，爱范儿制糖工厂的这款“硬糖充电器”喜欢的人可以说是非常喜欢了，谁不曾想在朋友面前秀一番这款实用且硬核的充电器呢！
-
-
-声音识别功能会在今春稍晚通过软件更新推出。声音识别功能可以探测烟雾和一氧化碳警报声，并在识别后向用户发送通知。当用户身处可能受到伤害的环境中，或在高风险或紧急情况下，均不应依赖声音识别功能。声音识别功能需要更新版家庭架构，该架构将在家庭 app 的独立更新中推出。它要求所有连接家居配件的 Apple 设备均使用最新版本软件。智能家居配件需单独购买。
