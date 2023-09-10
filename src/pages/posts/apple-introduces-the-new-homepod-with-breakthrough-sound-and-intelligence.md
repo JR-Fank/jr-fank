@@ -25,7 +25,7 @@ keywords: key1, key2, key3
 
 很难相信早前我最钟意的“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款，该有的一系列快充协议都不在话下，最高输出来到了35w ，为你的爱机设备包含 iPhone 14 系列在内的所有手机快速充电，一整个实用性进一步提升
 
-(https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/2022092821091989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+'https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/2022092821091989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60'
 
 那么这次制糖工厂又给我们带来了什么不一样呢？外包装充斥着（ReMake 再造）的设计语言，硬糖 GaN 迷你快充头在支持 35w 多协议快充下还能保持如此美妙的身材，属实到位了！
 
