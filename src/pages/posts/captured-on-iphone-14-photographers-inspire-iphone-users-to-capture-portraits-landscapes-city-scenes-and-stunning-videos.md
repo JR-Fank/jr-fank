@@ -5,8 +5,8 @@ pubDate: 2023-09-09
 description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
 author: 'Chen shilin'
 cover:
-    url: 'https://picshack.net/ib/7rS5Y0jQdd'
-    square: 'https://picshack.net/ib/7rS5Y0jQdd'
+    url: 'https://picshack.net/ib/7rS5Y0jQdd.jpeg'
+    square: 'https://picshack.net/ib/7rS5Y0jQdd.jpeg'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
 theme: 'dark'
