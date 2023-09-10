@@ -1,88 +1,92 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '从农场到海洋：保育红树林，维系当地人生计，保护地球 '
-pubDate: 2035-07-01
-description: 'Apple 与 Applied Environmental Research Foundation 合作，将促进印度马哈拉施特拉邦红树林的保育工作'
-author: 'Apple Newsroom'
+title: '『瞎折腾体验』我一定要安利这款颠覆你喝水习惯的小家伙'
+pubDate: 2021-03-13
+description: '这个“心想即热”饮水机的到来对我来说还真有点及时，我也非常好奇这个“小家伙”是如何让我“心想即热”的喝水的！'
+author: 'Chen shilin'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
+    url: 'https://p.ipic.vip/udjgn9.jpg'
+    square: 'https://p.ipic.vip/udjgn9.jpg'
     alt: 'cover'
 tags: ["特写", "环保", "Apple", "印度", "红树林", "保育", "新闻稿"]
 theme: 'dark'
 featured: true
 ---
 
-![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
+## 前言
 
-> 在马哈拉施特拉邦繁华的滨海城市孟买以南仅约 96 公里的地方，出现了一个截然不同的世界。繁华都市的摩天大厦、餐厅、酒店、购物区、不计其数的“嘟嘟车”与现代汽车逐渐消失，未铺装的道路、棕榈树、山羊、拉车的牛、小型露天市场和路边餐馆出现在视野里。
+其实我并不怎么爱喝水，以前用烧水壶烧开后得等晾到能喝的温度才能下口，尤其是有事情的时候赶不及喝上几口，久而久之就养成了不爱喝水的坏习惯。你还别说，这个“心想即热”饮水机的到来对我来说还真有点及时，我也非常好奇这个“小家伙”是如何让我“心想即热”的喝水的！
 
-Raigad 县的 Alibaug 连接了孟买与通向阿拉伯海的河网。海岸地区长有 21000 公顷红树林。红树林是地球最为天然的守护者之一，能够抵御气候变化带来的种种影响，包括突如其来的暴雨、海潮上升、热带气旋或飓风，甚至海啸。同时，红树林还能起到碳汇的作用，吸收大气中的二氧化碳，并将其存储在土壤、植物和其他沉积物中，这一机制被称为“蓝碳”。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804708.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-Applied Environmental Research Foundation（AERF）在 2021 年获得了 Apple 的资助。该组织正在这一地区进行探索，计划通过在当地社区中创设可持续的替代行业，来培育红树林生态系统的生物多样性与适应能力并从中受益，从而保护红树林的未来。保护协议将向当地村民提供持续性支持，以换取对土地的保护，并促进当地经济转型，使之有赖于保持红树林的完好与健康。 
+整体外观看上去非常简洁，没有任何多余的装饰，纯白色的机身颜值特别高，按钮右边还有温馨提示，机身摸上去手感挺不错的，随机附赠了一片可拆卸的铝片托盘
 
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804800.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![在印度马哈拉施特拉邦 Raigad 县，当地村庄的渔民以捕捞红树林内及海岸的小虾、泥蟹等水产为生。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-fisherman-with-net_big_carousel.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313280414.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804613.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-AERF 还将从保护国际基金会（Conservation International）2018 年启动的哥伦比亚 Cispatá 试行蓝碳项目获得的经验应用到印度的红树林。
+竖长的设计节约了桌面的空间，摆在我电脑旁边的位置，办公室的桌面上都可以很好地搭配房间的风格
 
-“对抗气候变化，是在为全球各地受这场危机影响最严重的社区而奋斗。从哥伦比亚到肯尼亚，再到菲律宾，人们的生活和生计饱受气候变化的威胁，这也正是我们工作的重点。”Apple 环境、政策与社会事务副总裁 Lisa Jackson 表示，“我们在印度的新的合作项目延续了这一努力，帮助当地社区从红树林的保育中收获经济利益，并抵御气候变化的恶劣影响。”
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804247.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-AERF 主席 Archana Godbole 从小就热爱大自然。“植物代表了年龄与时间，”她表示，“而树木则代表了耐心。它们是时间的无声观众——我越是研究树木、了解树木，就越在它们面前感到渺小。我的经历让我逐渐意识到，我想为保护和拯救树木与森林而工作。”
+小巧的身材也让我比较担心它的容量，不过对我来说 3.0L 的容积够我喝上一下午了，基本上我写一下午稿子都不用出去接水
 
-![Applied Environmental Research Foundation 主席 Archana Godbole 是一位植物分类学家，她在过去三十年间一直致力于以社区为基础的环保工作。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Archana-Godbole_big.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804365.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804198.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-专业植物分类学家 Godbole 在过去三十年间一直致力于以社区为基础的环保工作。在 Raigad 县，AERF 正在寻求与当地社区达成环保协议。由于海水侵袭和人造堤坝的损毁，当地居民的作物与农田的损失惨重。
+这是它的出水口，旁边还带一颗 LED 夜灯（设计有心了），夜里接水的时候，只要你按下解锁，氛围灯会自动亮起，亮度刚好照亮杯子，接水不用担心夜里看不清而溢出来，在解锁状态下LED灯是常亮的，30秒自动上锁后随之灭灯
 
-“这里世代居住的人们本是农民，但突然之间海洋来到了他们的门口。”Godbole 说道，“人们学会了新的技巧，来应对新的局面。现在我们已经知道红树林在应对气候变化与碳封存方面作用非常重要。我们很高兴能来到这里，努力与当地居民合作，让红树林为他们带来更多福祉。我们满怀信心地期待，他们能够在心中建立与土地和红树林的深厚联系。”
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804413.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-下面，我们可以看到这些村庄的面貌，以及被很多人称之为家的社区面对日益严峻的环境灾害所表现出的适应能力。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804291.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![Karanjveera 村的长者、75 岁的 Namdev Waitaram More 是传统捕鱼技术的行家。他正在帮助 AERF 联系社区成员，讨论红树林保育的机遇，以提供替代行业，支持本地人的生计。|inline](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Namdev-Waitaram-More_inline.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804537.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-Karanjveera 是一个小型内陆村庄，也是许多农民和渔民及其家人的家园。当地渔民通常以捕捞小虾蟹为主。Namdev Waitaram More 是村里的长者，也是传统捕鱼技术的行家。75 岁高龄的 More 一生都与红树林和谐共处，并深深尊敬它们抵御海水侵袭稻田的保护能力。
+饮水机还独立设置童锁按键，可直接按下童锁按键，进入锁定状态，还能待机 30秒 后，自动进入锁定状态，避免误碰烫伤，但我觉得如果更加有心的话不如加个水杯感应传感器（无水杯放置时按任意按键都无法触发开水）这样不是更好吗，大家觉得呢？
 
-More 正与表弟帮助其他社区成员与 AERF 联系，探讨村中盐沼和红树林保育问题。“红树林就像海绵。”他说道，“人们与这里的红树林关系密切。如果红树林没了，我们的堤坝就没了，我们的稻田也就没了。因为我们通过食物、堤坝和红树林相连，我们才得以生存。”
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804102.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![农民 Usha Thakur 来自 Hashiware 村，这里的农田已经完全被淹没。她是首批与 AERF 签订保护协议的村民之一，保护现已覆盖本地的红树林。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Usha-Thakur_big.jpg.large_2x.jpg)
+在水箱的整体设计上，“心想即热”饮水机采用了可拆卸水箱的方案，接水或者清洗水箱都方便不少
 
-Usha 和儿子 Tushar Thakur 都是 Hashiware 的农民。这个村庄位于 Amba 河畔，自从本地堤坝于 1990 年溃决后，这里的农田就一直淹没在海水之下。这里现已被红树林覆盖，但往日的残留依稀可见，遭弃置的房屋矗立在泥水中，距离河岸仅有几米。Thakur 是首批与 AERF 签订红树林保护协议的村民之一。
-从 1996 年开始，曾经属于 Hashiware 村农民的农田就已被红树林覆盖。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804795.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804795.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-“通过我们的工作与对红树林重要性的警示，以及创造可持续创收活动的机会，我们为 Raigad 县的沿海社区带来了希望。”AERF 的 Godbole 介绍道。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804736.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![相对陆生森林，健康的红树林生态系统可以在土地中存储更多碳，这种机制被称为“蓝碳”。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-coastline_big.jpg.large_2x.jpg)
+水箱后壁有一个感应浮标，在水加满时浮标就会上浮，此时饮水机感应到就可以正常工作，当水量不够时浮标就会下沉，这时候按下出水按钮饮水机就会发出滴声提示
 
-红树林保护印度沿海村庄的能力在近年得到了展现。2004 年，印尼海底强烈地震引发的多重海啸对印度东海岸造成了冲击。从那时起，人们意识到红树林是本地社区的无声守护者，吸收着巨浪的震撼，保护着岸边的村庄。在过去几年间，强热带气旋越来越频繁地侵袭这一地区，包括 2020 年的 Nisarga 和 2021 年的 Tauktae。在 Raigad 县，村民们正在努力保护红树林，从而保护自己的生计与福祉。 
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804293.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![渔民 Mangesh Patil 来自 Ganesh Patti 村。在当地一处堤坝由于海潮上升溃决后，这里已经完全被海水淹没。但他仍然返回了儿时的家。“这是我们出生的地方。”他说道，“我们在这里很开心。所以我们总会回到这里。”](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Mangesh-Patil_big.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804904.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-在 Ganesh Patti 村，农民们同意各人负责一部分堤坝的维护，将农田与红树林和河岸分离。但个人的维护工作还不够。当地渔民 Mangesh Patil 的家现已毁坏，被红树林所围绕。海浪和越来越高的海潮逐渐毁掉了他的房子。
-但在这个已消失的村落的村民看来，一切似乎发生在一夜之间。
+不折腾的同时也保证水箱卫生，不过我还是要吐槽水箱就不能附赠个拎手的嘛...虽说可拆卸式水箱清洗和接水都方便不少，但但但是！抱着水箱去接水真的很容易不小心就手滑，我有好几次差点就慌了
 
-“一天晚上，大家都睡了，夜潮来了，突然之间海水侵入，我们的床铺都湿透了。第二天早晨，我们意识到，整个村子都被淹了。”
-潮水退去后，居民们清点了土地和生计的损失——他们明白，自己必须从零开始了。迁移到邻近的村庄后，Patil 和他的兄弟等许多人都还是决定继续返回自己的老家，回到自己的印度教寺庙，在曾是儿时家园的水中捕鱼捞蟹。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313280456.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-“无论大自然给人类什么样的条件，我们都应该学会生存。”Patil 说道，“我们就是这样做的。现在，我们与这些红树林之间已经建立了联系。这里是我们出生的地方，我们在这里很开心。所以我们总是会回到这里。”
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/2021031313280445.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-![Apple 对 AERF 拨款的一部分用于向当地村民提供便携生物质炉具，作为替代烹饪方式，无需再使用砍伐红树林获取的木材来生火。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-bio-stove_big.jpg.large_2x.jpg)
+在顶部提供了四档常用水温选项，分别是常温、45摄氏度、75摄氏度和开水。日常喝水可以选择常温；想冲泡一些柠檬蜂蜜水可以选择45摄氏度，因为过高的温度会破坏柠檬与蜂蜜中的成分；75摄氏度可以用来冲泡一些枸杞茶或者调制一些麦片；开水也可以泡茶或者冲咖啡
 
-在与当地村庄签署环保协议提供资金支持的同时，Apple 的拨款还将用于购买与分发便携生物质炉具，让人们不再需要砍伐红树林，也能生火做饭。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804181.jpg?size=1015x571&imageMogr2/format/jpeg/quality/60)
 
-![来自 Pen Vashi 的渔民 Bhavik Patil 从小就在红树林里玩耍。现在，他靠在泥水中捕鱼捞蟹为生。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Bhavik-Patil_big.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804314.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
+按下开水的按键，正当我心想这纯净水到底是怎么变成热水的时候，大概两三个数的时间，咕噜咕噜，热水就出来了！水流不算大，但是这出水的速度还是可以的，不会因为冲击过快导致水流四溅
 
-来自 Pen Vashi 的渔民 Bhavik Patil 十分熟悉与红树林相关的生计，他帮助 AERF 在 Raigad 县的村庄中与村民探讨相关问题。出生在渔业家庭的 Patil 记得自己小时候，父母会在下河工作前，在红树上绑上秋千，让他和兄弟玩耍。现在，在捕鱼捞蟹之余，他也和很多人一起，与 Mothe Bhal 和 Vithalwadi 等村庄的村民就保护和可持续利用红树林的问题展开磋商。为了保护红树林，他和同伴请求村民收集从树木上自然掉落的干燥树枝。 
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804785.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
+说实话这个操作有点震惊到了我，不久前我家刚入手“美的”饮水机，出水最大的不同：目前市面上普遍的饮水机出热水是先在机器内部容器中的水加热到温度后出水，而“心想即热”饮水机是立即出热水的，下图是它的加热原理
 
-![Applied Environmental Research Foundation 的联合创始人 Jayant Sarnaik 相信 Raigad 县近年来的气候变化已经让当地村民们认识到保护与他们共存的红树林的重要意义。|inline](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Jayant-Sarnaik_inline.jpg.large_2x.jpg)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804235.jpg?size=1043x587&imageMogr2/format/jpeg/quality/60)
 
-对 AERF 的许多成员来说，保护红树林不仅仅是一项工作，更是他们的激情所在。Godbole 和联合创始人 Jayant Sarnaik 27 年前创建了这个组织，并持续致力于通过当地人参与的方式实现环保使命。
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804469.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-“对于生活在近海地区的社区来说，构建抵御气候变化的适应能力是一项持续工作。”AERF 的 Sarnaik 表示，“这些社区在海岸生活了很长的时间，他们非常了解海洋，以及海洋和气候的关系。气候变化对他们来说并不是新鲜事；然而，他们在过去 5 到 10 年间也经历了剧烈的变化。近年的热带气旋让这里的人们认识到了红树林的重要性。面对这些灾害，红树林是最强有力的自然防线。同时，它也在更广泛的范围内唤醒了人们对于红树林重要意义的认识。
+不过出水的时候会有一股塑料味，水里也是塑料味，这点还是有点减分的
 
-正如 Godbole 所言，未来值得期待。“与 Apple 和保护国际基金会的合作是一次绝佳的机会，探索红树林保育和社区福祉的互惠互利。”她表示。“虽然红树林保育问题在各地有所差异，但在我们的项目所在地，也存在着很多机遇。培训满怀热情的年轻团队和本地社区关于蓝碳的知识，定会帮助我们在阿拉伯海沿岸这一充满生机的地区实现红树林保育方面的长足进展。”
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804270.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-Apple 致力于帮助全球各地受气候变化冲击最严重的社区培育适应能力，获取经济收益。去年，公司与保护国际基金会合作，支持创办了同类首创的“无法复原的碳金融实验室”，旨在保护全球最脆弱的生态系统，并与中国绿色碳汇基金会合作，资助相关研究及试行项目，在中国建立更多天然碳汇。此外，在世界地球日当周，顾客每次通过 apple.com、Apple Store app 或在 Apple Store 零售店使用 Apple Pay 购物，Apple 都将向世界自然基金会（WWF）捐出 1 美元。通过此举，Apple 向 WWF 的 Climate Crowd 项目提供支持。该项目旨在促进社区对环境变化的适应能力与可持续生计。
+自从有了这个“小家伙”，每天早上都能让我在三秒内心满意足的喝到温开水，促进肠道的蠕动，告诉它该起床了！洗漱过后再来一杯早茶，吃点早餐开始了我元气满满的一天，我不会像商家那样吹捧它的各种功能，但它在某个 Moment 确实能提升我的幸福感；而晚上疲惫的回到家后还可以马上喝到一杯热牛奶，这一天在这“三秒即热”的加持下让我感觉很温馨！
+
+在经历了一次转季感冒后，我仿佛更加明白了即热饮水机的魔力所在，伸手一杯温热水，在这个季节没有比这个更能让人感到慰藉的了！
