@@ -21,7 +21,7 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330788.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-## |真的小
+## | 真的小
 
 恰逢这几天征拓推出了SuperPort S3 二代，功率一致的同时再度缩小体积，比上一代减小10%，小巧便携才是真正的“氮化镓”，重量也仅仅只有100g
 
@@ -45,7 +45,7 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330238.jpg?size=1080x607&imageMogr2/format/jpeg/quality/60)
 
-## |真方便
+## | 真方便
 
 可折叠的插头设计给予好评，出行便携易收纳
 
@@ -59,7 +59,7 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330953.jpg?size=1080x607&imageMogr2/format/jpeg/quality/60)
 
-## |真挺牛
+## | 真挺牛
 
 其实，值得让我更加爱不释手的原因还是它搭载GaN氮化镓黑科技，可以凭借更小的体积实现大功率的输出，有了氮化镓的加持就可以让S3二代在小巧的体积下实现给电脑手机平板等大功率设备同时快充了～
 
@@ -69,7 +69,7 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330565.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
-## |真的多
+## | 真的多
 
 协议兼容性和功率 这次测试所用的仪器是 Power-Z 测试表，SuperPort S3 二代支持 PD2.0/3.0、高通QC4+/QC4.0/QC3.0/QC2.0、PPS 5A、华为FCP/ SCP 5A、三星AFC、联发科PE1.0/2.0、Apple 2.4A 等快充协议，协议非常全面！
 
@@ -97,7 +97,7 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330295.jpg?size=1080x607&imageMogr2/format/jpeg/quality/60)
 
-## |爱不释手
+## | 爱不释手
 
 其实我对充电器的要求并不是很高，本质上主要能给设备充电就够了，但每天快节奏的生活以及长时间使用电子产品，使得充电速度也得快起来，在这些小体积高功率充电器不断更新的同时，笔记本电脑厂商也在努力缩小原有充电器的体积
 
