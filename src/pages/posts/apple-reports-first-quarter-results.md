@@ -5,8 +5,8 @@ pubDate: 2021-04-06
 description: '不久前，跟朋友聊到目前各种设备的充电方式，发现现在大部分产品都已经进入快充时代'
 author: 'Chen shilin'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+    url: 'https://p.ipic.vip/plh66r.JPG'
+    square: 'https://p.ipic.vip/plh66r.JPG'
     alt: 'cover'
 tags: ["充电器", "Apple"]
 theme: 'light'
