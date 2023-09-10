@@ -1,7 +1,7 @@
 export const SITE_TITLE = `JR-Fank`;
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = 'csl2356007079@icloud.com'
-export const SITE_NAME = 'jrfank.cc';
+export const SITE_NAME = 'JRFANK.CC';
 export const SITE_URL = "https://jrfank.cc";
 export const SITE_LANG = "zh-CN";
 
