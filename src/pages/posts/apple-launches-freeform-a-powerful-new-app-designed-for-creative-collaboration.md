@@ -1,12 +1,12 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Apple 推出为头脑风暴和创意协作设计的全新强大 app 无边记'
-pubDate: 2035-04-01
-description: 'iPhone、iPad 及 Mac 版无边记让视觉化协作更轻松。'
-author: 'Apple Newsroom'
+title: '游戏手柄中的佼佼者——北通阿修罗3S游戏手柄'
+pubDate: 2022-07-14
+description: '2023年8月21日 01:38'
+author: ''
 cover:
-    url: 'https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg'
+    url: 'https://p.ipic.vip/kjsiwp.JPG'
+    square: 'https://p.ipic.vip/kjsiwp.JPG'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "无边记"] 
 theme: 'light'
@@ -15,44 +15,88 @@ featured: true
 
 
 
-![无边记为 iPhone、iPad 和 Mac 提供了灵活多用的画布，在同一个地方汇聚对话主题、内容及灵感创意。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg)
+## ｜前言
 
-无边记是一款全新 app，今日正式推出，包括 iOS、iPadOS 和 macOS 最新版本。无边记帮助用户在灵活多用的画布上管理并以视觉方式展示内容，在同一个地方查看、共享与协作，而不必考虑排版或页面大小问题。用户无需离开画板，即可添加不同类型的文件并实时预览。无边记为协作而设计，让用户更轻松地邀请他人在同一块白板上工作还能在 FaceTime 通话期间与他人协作。无边记白板存储在 iCloud 上，用户可以在不同设备间同步内容。
+如今这个时代喜欢打游戏的年轻人越来越多，三五成群一起开黑打游戏，那叫一个舒服！但大型端游使用键盘和鼠标是往往无法尽兴的，并且还没有震动反馈，这也就是近几年游戏手柄成为众多游戏爱好者更为追求的游戏外设之一
 
-“无边记为 iPhone、iPad 和 Mac 用户进行视觉化协作开启了无限可能。”Apple 全球产品营销副总裁 Bob Borchers 表示，“无边记带来了无边无际的画布，支持上传多种不同类型的文件，集成了 iCloud，还提供了诸多协作功能，为用户随时随地创建头脑风暴的共享空间。”
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301660.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301660.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-## 为创意设计的画布与易用工具
+但对我而言，价格高昂的游戏手柄实在顶不住，相反我一直有在关注国内品牌北通的这款「北通阿修罗3S游戏手柄」三百多的价格就可以体验霍尔扳机，可谓深得我心，今天我们就一起来看看这款游戏手柄表现如何？
 
-无边记为用户提供了绝佳的白板体验，在同一个地方汇聚灵感创意。无边无际的画布会随着内容添加到白板上而不断扩展，让用户在处理很多文件或与他人协作时获得无限灵活性。通过内置手势支持，用户可以在白板各处流畅转移。
+## ｜细节一下
 
-这款 app 提供了多种画笔类型和颜色选项，供用户描绘创意、添加注释、绘制图表。iPhone 与 iPad 用户可以在画布上的任意地方用手指作画；无边记还支持 Apple Pencil，让用户更轻松地随时随地在 iPad 上描绘灵感。
+北通阿修罗3S游戏手柄支持有线和无线两种模式，所以附送有一根Type-C的连接线
 
-![无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-Markup_big.jpg.large_2x.jpg)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300194.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300194.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-iPad Pro 上的无边记中展示着随手写笔记和一系列绘画工具。
-无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。
-无边记支持大量文件类型，包括照片、视频、音频、文档、PDF、网站链接和地图地点链接、便签、图形、图表等等。用户还可以利用 iPhone 和 iPad 摄像头直接在白板中插入图片或扫描文档。无边记还提供了全面的图形素材库，包括 700 多种可选图形，用户可以改变这些图形的颜色和大小、添加文本，甚至创建个性化图形。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301753.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190301753.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-用户可以将内容从文件和访达等 app 拖放至画板，并通过内置对齐指导轻松保持画板整洁有序。用户只需轻点两下，不必离开画板即可通过速览预览内容，还能同时播放多个视频文件，创建动态视图。图片和 PDF 等内容可以在画板上锁定位置，协作者可以在对象上方或周围添加注释，这意味着无边记极为适合用来为建筑平面图或家装计划描绘灵感，或者供教练在篮球战术板上布置战术。
+无线连接模式时则是使用USB接收器，类似无线鼠标的连接方式。
 
-iPad Pro 的无边记画板支持多种类型的文件。
-无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259486.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259486.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-![无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-files-support_big.jpg.large_2x.jpg)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302544.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302544.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-## 协作空间
+北通自研的BRS系统才是它的重头戏，可实现双摇杆灵敏度实时调节，物理旋钮哒哒清脆的齿轮调节手感实在是舒服。
 
-无论用户在办公室或是出门在外，无论是独立工作还是与他人协作，无边记都能派上大用场。无边记支持多人在同一块白板上协作，为集体项目或与好友规划度假方案创造共享创意空间。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190304815.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190304815.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-利用信息 app 的全新协作功能，用户只需将无边记画板拖入信息对话串就能邀请他人在白板上展开协作。对话串的所有成员都会自动被邀请加入画板，马上开始协作。有人编辑内容后，活动更新会出现在信息对话串顶部。
+并且它的宙斯级机械按键，触发行程只有0.7mm，响应速度直线提升，对于玩射击类游戏时感知明显。
 
-这款 app 内置了 FaceTime 通话功能，用户使用无边记时，轻点屏幕右上角的协作按钮，即可发起 FaceTime 通话。依托快速同步功能和 iCloud 集成，所有协作者都可以查看其他人添加的内容或者改动。无边记白板会在 iPhone、iPad 和 Mac 间同步，用户可以通过链接或电子邮件邀请他人，还能以 PDF 格式导出画板，或者截取屏幕。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/2022071419025971.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/2022071419025971.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-iPad Pro 上，无边记正在使用 FaceTime 通话协作功能。
-依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。
+重点来了，采用霍尔扳机的技术使得控制更精确，并且还提升了准确度，在竞速游戏上感受是最畅爽的。
 
-![依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-FaceTime_big.jpg.large_2x.jpg)
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190303219.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190303219.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
-## 推出时间
+手柄左右两边打开均可加入相对应的配重块，追求重量手感的朋友可以另行购入，可增加配置至288克。
 
-今日起，所有支持 iOS 16.2、iPad OS 16.2 或 macOS Ventura 13.1 的 iPhone、iPad 及 Mac 均可免费下载无边记。
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302822.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302822.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+最细节的一点还是 北通阿修罗3S在握柄部分给了我小惊喜，左右握柄放置配重仓的同时还可以收纳接收器，这波属实爱上了！
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259249.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259249.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+在无配重情况下，实测手柄重量不到 250克，握持太久也不会出现疲劳的情况。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300492.jpg?size=5640x3173&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300492.jpg?size=5640x3173&imageMogr2/format/jpeg/quality/60)
+
+## ｜体验一下
+
+《赛巴斯蒂案拉力赛：进化》这款游戏每次有空就会打开跑几圈，不会太耗时间，手柄的板机对于油门的控制十分精确，调教的非常出色，无延迟，包括车辆受到撞击瞬间的震动力度把我自己都震撼到了，这也就是为什么需要游戏手柄才能获得更好体验的原因。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300989.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+三段式扳机锁还可以针对不同的游戏进行精准调教，像我跑这款竞速游戏调至全档能更直接感受到油门的响应，射击游戏调到微档，可以更快的出枪射击。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302917.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302917.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+内置的两颗震动马达使得在游戏中能有更好的沉浸式体验。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300451.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300451.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+对于重度爱好者，这款北通阿修罗3S游戏手柄还支持通过PC版北通游戏厅连接来对手柄进行个性化配置，同时还支持宏编程，一键连招不再是问题。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259614.jpg?size=2880x1720&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259614.jpg?size=2880x1720&imageMogr2/format/jpeg/quality/60)
+
+客户端界面简洁易赅，键位设置、灵敏度设置、多级震动强度等，甚至还有专属 RGB 色彩定制，满足任何使用需求。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259339.jpg?size=2600x1500&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259339.jpg?size=2600x1500&imageMogr2/format/jpeg/quality/60)
+
+中间的北通 Logo 长按开机时手柄会给予震动反馈，特有的 TURBO 连发功能，开启后会有震动提醒。对于射击类游戏连发模式可谓得心应手，获得更好的游戏体验。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259507.jpg?size=3679x2070&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259507.jpg?size=3679x2070&imageMogr2/format/jpeg/quality/60)
+
+差点忘了续航情况，内置的 950mAh 锂电池按照我个人的使用习惯，平均玩2-3小时，基本上三天充一次电，不过我习惯洗澡前插上充电，洗完澡出来它就已经是满电状态了。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190303911.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190303911.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+## ｜总结一下
+
+游戏手柄这个形态从小霸王延续到今天，我仍然觉得它存在的地位并不是取代游戏中的键盘鼠标，相反在一定意义上手柄的加持下会获得更好的体验。
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302591.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190302591.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+
+北通阿修罗 3S游戏手柄的游戏体验要比键鼠玩法好很多,曾经在一线大牌看到的技术如今也都能体验到，酷爱赛车游戏的我一直非常喜欢线性扳机的功能，如果你也跟我一样喜欢这款游戏手柄的亮点，试试看绝对会让你惊喜！
+
+![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300255.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190300255.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
