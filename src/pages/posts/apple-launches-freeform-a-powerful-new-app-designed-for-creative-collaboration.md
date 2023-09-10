@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '游戏手柄中的佼佼者——北通阿修罗3S游戏手柄'
 pubDate: 2022-07-14
-description: '2023年8月21日 01:38'
+description: '2022年7月14日 01:38'
 author: 'Chen shilin'
 cover:
     url: 'https://p.ipic.vip/kjsiwp.JPG'
