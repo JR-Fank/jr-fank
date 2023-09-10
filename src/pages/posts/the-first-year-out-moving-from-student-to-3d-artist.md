@@ -5,11 +5,11 @@ pubDate: 2021-3-26
 description: '可能还有朋友不太清楚 PITAKA Air Omni lite 是什么。它就是一台 六合一无线充电器让你的数码设备在一处地方「即放即充」，桌面不再是那杂乱无章的样子。'
 author: 'Chen shilin'
 cover:
-    url: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
+    url: 'https://p.ipic.vip/rdbkfu.jpeg'
+    square: 'https://p.ipic.vip/rdbkfu.jpeg'
     alt: 'cover'
 tags: ["特写", "影视", "教育", "游戏", "3d", "新闻稿"]
-theme: 'dark'
+theme: 'light'
 featured: true
 ---
 
