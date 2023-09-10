@@ -51,7 +51,7 @@ featured: true
 
 在水箱的整体设计上，“心想即热”饮水机采用了可拆卸水箱的方案，接水或者清洗水箱都方便不少
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804795.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804795.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
+![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804795.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313132804736.jpg?size=1080x608&imageMogr2/format/jpeg/quality/60)
 
