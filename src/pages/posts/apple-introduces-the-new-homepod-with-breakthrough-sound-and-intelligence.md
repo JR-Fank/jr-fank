@@ -5,8 +5,8 @@ pubDate: 2035-03-25
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
 author: 'Apple Newsroom'
 cover:
-    url: '![](https://p.ipic.vip/ilibod.JPG)'
-    square: '![](https://p.ipic.vip/ilibod.JPG)'
+    url: 'https://p.ipic.vip/ilibod.JPG'
+    square: 'https://p.ipic.vip/ilibod.JPG'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "HomePod"] 
 theme: 'light'
