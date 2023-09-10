@@ -29,7 +29,7 @@ keywords: key1, key2, key3
 
 那么这次制糖工厂又给我们带来了什么不一样呢？外包装充斥着（ReMake 再造）的设计语言，硬糖 GaN 迷你快充头在支持 35w 多协议快充下还能保持如此美妙的身材，属实到位了！
 
-![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
+[](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210919502.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
 ![https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210921166.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/09/28/20220928210921166.jpg?size=6000x3376&imageMogr2/format/jpeg/quality/60)
 
