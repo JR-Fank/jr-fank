@@ -29,9 +29,7 @@ featured: true
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![|inline](https://picshack.net/ib/ftrRIDDpv7.jpeg)
-
-![|inline](https://picshack.net/ib/NCwtcEUsx9.jpeg)
+![|inline](https://picshack.net/ib/ftrRIDDpv7.jpeg) ![|inline](https://picshack.net/ib/NCwtcEUsx9.jpeg)
 
 繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望，在生活的节奏中匆匆前行。穿过繁华的街道，我们来到了肯尼迪城的新海边。这片海，它的蓝，是如此纯净。新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
