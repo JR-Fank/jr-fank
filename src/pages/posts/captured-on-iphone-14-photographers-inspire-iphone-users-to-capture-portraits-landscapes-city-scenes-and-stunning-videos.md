@@ -211,4 +211,4 @@ featured: true
 
 当激情遇上灵感，JR-Fank 应运而生。
 
-![](https://p.ipic.vip/bbihii.jpg)
+![|inline](https://p.ipic.vip/bbihii.jpg)
