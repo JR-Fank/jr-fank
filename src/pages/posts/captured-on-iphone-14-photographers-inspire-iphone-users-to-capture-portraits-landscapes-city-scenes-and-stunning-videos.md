@@ -47,7 +47,7 @@ featured: true
 
 ![|inline](https://p.ipic.vip/onrdcs.jp2)
 
-![|inline](https://p.ipic.vip/p0bw9m.JPG)
+![|inline](https://p.ipic.vip/177ggf.jp2)
 
 ![](https://picshack.net/ib/2uyxreU6oe.jpeg)
 
