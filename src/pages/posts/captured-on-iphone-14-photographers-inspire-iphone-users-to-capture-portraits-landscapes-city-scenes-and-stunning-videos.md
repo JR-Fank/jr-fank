@@ -15,9 +15,11 @@ featured: true
 
 
 
-![维多利亚港|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
+![|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
+
+## 香港维多利亚港
 
 ![](https://picshack.net/ib/LfrpPyGsGw.jpeg)
 
@@ -31,23 +33,23 @@ featured: true
 
 ![](https://picshack.net/ib/JTnAuo72Xp.jpeg)
 
-繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望
+繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
 
 ![](https://picshack.net/ib/LVN8PQuBdY.jpeg)
 
-在生活的节奏中匆匆前行
+在生活的节奏中匆匆前行。
 
 ![](https://picshack.net/ib/nRJfPFlGYv.jpeg)
 
-穿过繁华的街道，我们来到了坚尼地城的新海边
+穿过繁华的街道，我们来到了坚尼地城的新海边。
 
 ![|inline](https://picshack.net/ib/ftrRIDDpv7.jpeg)
 
-这片海，它的蓝，是如此纯净
+这片海，它的蓝，是如此纯净。
 
 ![|inline](https://picshack.net/ib/NCwtcEUsx9.jpeg)
 
-新海滨的宁静与城市的喧嚣形成了鲜明的对比
+新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
 ## 澳门伦敦人
 
@@ -65,39 +67,142 @@ featured: true
 
 ![](https://picshack.net/ib/MSxvMZ5gBx.jpeg)
 
-金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
-
 ## 漫步在澳门街头
 
 ![](https://p.ipic.vip/p0bw9m.JPG)
 
-![](https://picshack.net/ib/kQBKlj22sY.jpeg) ![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
+![](https://picshack.net/ib/kQBKlj22sY.jpeg)
+
+![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
 
 ![](https://p.ipic.vip/ton3r2.JPG)
 
 ![与来自迪拜的朋友见面，并合影留念](https://p.ipic.vip/wfduos.jpg)
 
+## 珠海大剧院
 
-![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-in-48MP-ProRAW-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://p.ipic.vip/bugv7a.JPG)
 
-加上超广角和长焦摄像头一起，iPhone 14 Pro 现在支持 0.5 倍、1 倍、2 倍和 3 倍共计四个变焦选项 ，使用户无需牺牲画面质量，即可在拍摄照片和视频时拥有更多取景选项。丰富的焦距范围可以轻松应对多种场景，足之所至，即成佳作。四合一像素传感器还支持 2 倍长焦选项，利用该传感器正中的 1200 万像素拍摄全分辨率照片和 4K 视频，无需数码变焦。该选项能够以常用焦距带来光学品质成像，对于人像模式等功能来说非常实用。
+![晚霞如火如荼，美得像一幅油画](https://p.ipic.vip/n3qmtp.jpg)
 
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://p.ipic.vip/co7quk.jpeg)
 
-![赵华鹏 使用 iPhone 14 Pro Max 四个变焦选项于三亚拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_05x_12192022_big.jpg.large_2x.jpg)
+## 广州圣心大教堂
 
-强大的 A16 仿生芯片和配备 5 核图形处理器的 A15 仿生芯片，是驱动强大功能的幕后功臣，如运动模式让摄像师轻松实现更加稳定、丝滑的视频画面，电影效果模式带来沉浸式叙事风格。
+广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-全新的运动模式可拍摄出无比丝滑的视频，应对大幅的抖动、位移和震动，甚至在运动中拍摄时也不例外，让用户在手持拍摄时无需携带云台等外设。该模式支持高达 2.8K 60 fps 视频，而增强的电影效果模式现已支持 4K 分辨率和 24 fps 的电影帧率录制，让用户能够通过生动的叙事释放无穷的创造力，并与全世界分享他们通过 iPhone 所看到的内容。
+![](https://p.ipic.vip/ee4o31.jpeg)
 
-自适应原彩闪光灯经过全面重新设计，采用九粒 LED 灯珠阵列，会根据用户选择的照片焦距更改闪光模式，使拍摄对象始终处于最佳光线中。与上一代相比，全新闪光灯亮度提升可达 2 倍，光线均匀度提升可达 3 倍。
-此外，全新原深感摄像头配备更快的光圈，让低光条件下照片视频更美丽细致，并支持自动对焦功能。
+![](https://p.ipic.vip/3jfozt.jpeg)
 
+![|inline](https://p.ipic.vip/t9mlde.jpeg)
 
-![小北 使用 iPhone 14 Pro 自适应原彩闪光灯于福州拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Adaptive-True-Tone-flash-by-Xiaobei-Fuzhou_12192022_big.jpg.large_2x.jpg)
+![|inline](https://p.ipic.vip/z521zd.jpeg)
 
+![|inline](https://p.ipic.vip/gp3jb1.jpeg)
 
-![Derrick Zhang 使用 iPhone 14 Plus 前置原深感摄像头于上海拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-front-TrueDepth-camera-by-Derrick-Shanghai_12192022_inline.jpg.large_2x.jpg)
+![|inline](https://p.ipic.vip/94rer5.jpeg)
 
-iPhone 14 系列的所有摄像头均支持夜间模式，这意味着当用户在深夜拍摄风景或在低光条件下自拍时，照片会被神奇地点亮。同时，夜间模式现将广角摄像头的想象力提升到全新水平，得益于更大的感光元件和更快的光圈，使 iPhone 14 和 iPhone 14 Plus 上的曝光时间最快提升可达 2 倍。
+## 广州
 
-![赵华鹏 使用 iPhone 14 Pro Max 主摄的夜间模式于三亚拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-with-the-Main-camera-using-Night-mode-by-Jamie-Sanya_12192022_big.jpg.large_2x.jpg)
+![](https://p.ipic.vip/59866e.jpeg)
+
+![](https://p.ipic.vip/l3ugp1.JPG)
+
+## 人来人往
+
+开始延时摄影后，我在一旁观看寺庙周围的一切。随着游客们一个接一个地离开，寺庙里渐渐安静下来，只有微风拂过树木的声音和远处车辆的杂音。这种宁静让我平静下来，仿佛进入了一个完全不同的世界。
+
+![广州北京路普觉楼](https://p.ipic.vip/mxs116.jpeg)
+
+## 华润大厦
+
+我拍摄了这座现代城市的魅力，它的摩天大楼就像一头头猛兽。
+
+![](https://p.ipic.vip/329h7i.JPG)
+
+![](https://p.ipic.vip/en2n5q.JPG)
+
+## 深圳文和友
+
+![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://p.ipic.vip/fr3lxf.jpeg)
+
+![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://p.ipic.vip/fr3lxf.jpeg)
+
+## 人像摄影
+
+![](https://p.ipic.vip/q98mdb.jpeg)
+
+![](https://p.ipic.vip/1l8701.jpeg)
+
+![](https://p.ipic.vip/ctbwy1.jpeg)
+
+![](https://p.ipic.vip/3twdu2.jpeg)
+
+![](https://p.ipic.vip/amdisa.jpeg)
+
+## 绚丽的烟花
+
+2023年的春节，迎来了一场绚丽的烟花盛宴。寒冷的冬夜，我的心却是暖暖的。这些照片将永远留在我的心里，见证我和家人一起度过的温暖春节，记录下美好瞬间的珍贵记忆。
+
+![](https://p.ipic.vip/7qny4p.JPG)
+
+![](https://p.ipic.vip/wtgoqv.JPG)
+
+![](https://p.ipic.vip/flcbia.JPG)
+
+![](https://p.ipic.vip/oh515h.JPG)
+
+![年夜饭](https://p.ipic.vip/o3itis.JPG)
+
+![](https://p.ipic.vip/pw01l3.JPG)
+
+![](https://p.ipic.vip/kqwce5.JPG)
+
+![](https://p.ipic.vip/jmf78z.JPG)
+
+## 触发食物味蕾
+
+每一帧都是味觉和视觉的盛宴，记录下这些美丽的瞬间让我感到满满的幸福。
+
+![](https://p.ipic.vip/y80gxi.JPG)
+
+![](https://p.ipic.vip/4uqv80.jpg)
+
+![](https://p.ipic.vip/gmxn92.JPG)
+
+![](https://p.ipic.vip/d2ajcv.JPG)
+
+![](https://p.ipic.vip/s76u83.JPG)
+
+## 月球表面
+
+2023 年 6 月 4 日，相机定格在月球表面，皎洁的月光照亮了月球的高山和深谷。细节清晰可见，仿佛能感受到尘埃的质感。月球上的环形山和纹路也清晰可辨，仿佛是时间的见证者。这张照片成了我记录这个奇妙夜晚的珍贵藏品。月光照耀下的月球表面，永远是我心中最美的画面。
+
+![](https://p.ipic.vip/8qjq2n.JPG)
+
+![](https://p.ipic.vip/w8u22r.JPG)
+
+## 我的家乡 - 汕头
+
+这就是我的家乡汕头，我住在靠海的地方，城市的夜晚灯火通明，像星星点点的钻石散落在黑夜里。海风习习，让人心旷神怡。远处的船只在海面上熠熠生辉，仿佛黑夜里的精灵。此时此刻，汕头展现出她不同寻常的美
+
+![](https://p.ipic.vip/zilae7.JPG)
+
+![](https://p.ipic.vip/lzto0w.jpg)
+
+![](https://p.ipic.vip/zajga8.JPG)
+
+![](https://p.ipic.vip/bpxamr.JPG)
+
+## 品牌设计
+
+"JR "不仅是我的标志，也代表着每一个瞬间。它是那一刻产生的灵感，是梦想和奋斗的缩影，也是我探索和创造的动力！
+
+"Fank "代表着无限的热情和对粉丝的承诺。我希望自己不仅是一个自媒体平台，也是一个充满活力的社区，与志同道合的粉丝们一起讨论和分享有趣的话题。
+
+![](https://p.ipic.vip/igpw88.png)
+
+当激情遇上灵感，JR-Fank 应运而生。
+
+![](https://p.ipic.vip/bbihii.jpg)
