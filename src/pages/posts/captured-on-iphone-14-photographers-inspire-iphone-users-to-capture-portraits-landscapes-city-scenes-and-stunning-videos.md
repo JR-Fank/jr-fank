@@ -57,7 +57,7 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-##漫步在澳门街头
+## 漫步在澳门街头
 
 ![赵华鹏 使用 iPhone 14 Pro Max 主摄于三亚拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-with-the-Main-camera-by-Jamie-Sanya_12192022_inline.jpg.large_2x.jpg)
 
