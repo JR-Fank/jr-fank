@@ -39,7 +39,7 @@ featured: true
 
 ![](https://picshack.net/ib/nRJfPFlGYv.jpeg)
 
-穿过繁华的街道，我们来到了肯尼迪城的新海边
+穿过繁华的街道，我们来到了坚尼地城的新海边
 
 ![|inline](https://picshack.net/ib/ftrRIDDpv7.jpeg)
 
@@ -50,6 +50,8 @@ featured: true
 新海滨的宁静与城市的喧嚣形成了鲜明的对比
 
 ## 澳门伦敦人
+
+金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
 ![|inline](https://p.ipic.vip/z65mp5.jp2)
 
@@ -69,13 +71,11 @@ featured: true
 
 ![](https://p.ipic.vip/p0bw9m.JPG)
 
-![](https://picshack.net/ib/kQBKlj22sY.jpeg)
+![](https://picshack.net/ib/kQBKlj22sY.jpeg) ![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
 
-![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
+![](https://p.ipic.vip/ton3r2.JPG)
 
-![]([https://picshack.net/ib/M1cM7aWyu1.jpeg)
-
-![与来自迪拜的朋友见面，并合影留念](https://picshack.net/ib/M9TZrNKUNF.jpeg)
+![与来自迪拜的朋友见面，并合影留念](https://p.ipic.vip/wfduos.jpg)
 
 
 ![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-in-48MP-ProRAW-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
