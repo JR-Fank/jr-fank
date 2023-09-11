@@ -15,7 +15,7 @@ featured: true
 
 
 
-![wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
+![|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
 
@@ -23,9 +23,9 @@ featured: true
 
 前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
 
-![](https://picshack.net/ib/VDywve8LAJ.jepg)
+![](https://picshack.net/ib/VDywve8LAJ.jpeg)
 
-![](https://picshack.net/ib/WFWFwsY0P8)
+![](https://picshack.net/ib/WFWFwsY0P8.jpeg)
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
