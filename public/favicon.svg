@@ -33,7 +33,7 @@
   </defs>
   <path id="三角形" d="M9.345 19.019 L17.77 36 0.919 36 Z" fill-opacity="1" fill="url(#linear-gradient-3)" stroke="none"/>
   <defs>
-   <text id="string" transform="matrix(1.0 0.0 0.0 1.0 -2.0 15.0)" x="1.0" text-decoration="none" font-family="LuckiestGuy-Regular, Luckiest Guy" font-size="9.69" y="7.0">JR-FANK</text>
+   <text id="string" transform="matrix(1.0 0.0 0.0 1.0 -2.0 15.0)" font-family="LuckiestGuy-Regular, Luckiest Guy" y="7.0" x="1.0" font-size="9.69" text-decoration="none">JR-FANK</text>
   </defs>
   <use id="JR-FANK" xlink:href="#string" fill="#000000" fill-opacity="1" stroke="none"/>
  </g>
