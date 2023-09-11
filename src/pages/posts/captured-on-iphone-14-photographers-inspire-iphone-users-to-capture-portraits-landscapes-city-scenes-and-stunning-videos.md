@@ -20,36 +20,35 @@ featured: true
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
 
 ## 香港维多利亚港
+前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
 
 ![](https://picshack.net/ib/LfrpPyGsGw.jpeg)
 
-前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
+夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
 ![](https://picshack.net/ib/VDywve8LAJ.jpeg)
 
 ![](https://picshack.net/ib/WFWFwsY0P8.jpeg)
 
-夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
+繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
 
 ![](https://picshack.net/ib/JTnAuo72Xp.jpeg)
 
-繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
+在生活的节奏中匆匆前行。
 
 ![](https://picshack.net/ib/LVN8PQuBdY.jpeg)
 
-在生活的节奏中匆匆前行。
+穿过繁华的街道，我们来到了坚尼地城的新海边。
 
 ![](https://picshack.net/ib/nRJfPFlGYv.jpeg)
 
-穿过繁华的街道，我们来到了坚尼地城的新海边。
+这片海，它的蓝，是如此纯净。
 
 ![|inline](https://picshack.net/ib/ftrRIDDpv7.jpeg)
 
-这片海，它的蓝，是如此纯净。
+新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
 ![|inline](https://picshack.net/ib/NCwtcEUsx9.jpeg)
-
-新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
 ## 澳门伦敦人
 
@@ -69,11 +68,17 @@ featured: true
 
 ## 漫步在澳门街头
 
-![](https://p.ipic.vip/p0bw9m.JPG)
+阳光洒在大三巴古老的城墙上，美得令人窒息。
 
 ![](https://picshack.net/ib/kQBKlj22sY.jpeg)
 
-![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
+最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
+
+![](https://p.ipic.vip/p0bw9m.JPG)
+
+这是澳门传统与现代交汇的迷人时刻。
+
+![](https://p.ipic.vip/9ybhu3.jpeg)
 
 ![](https://p.ipic.vip/ton3r2.JPG)
 
@@ -86,6 +91,7 @@ featured: true
 ![晚霞如火如荼，美得像一幅油画](https://p.ipic.vip/n3qmtp.jpg)
 
 ![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://p.ipic.vip/co7quk.jpeg)
+
 
 ## 广州圣心大教堂
 
