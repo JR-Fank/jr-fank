@@ -1,9 +1,9 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
+title: '通过镜头，我能够捕捉到生活中的美好瞬间和情感，让它们永远定格在照片里。这些照片不仅仅是图像，它们背后都有一个故事，代表着我经历过的特殊时刻和情感。'
 pubDate: 2023-09-09
-description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
-author: 'Apple Newsroom'
+description: '摄影不仅是我的爱好，也是我表达和记录生活的一种方式。通过镜头，我能够捕捉到生活中的美好瞬间和情感，让它们永远定格在照片里。这些照片不仅仅是图像，它们背后都有一个故事，代表着我经历过的特殊时刻和情感。我希望通过我的作品将它们一一传达。如果您对我的作品有任何问题或反馈，请随时与我分享。'
+author: 'Chen shilin'
 cover:
     url: 'https://picshack.net/ib/qG5fBMUPct.jpeg'
     square: 'https://picshack.net/ib/qG5fBMUPct.jpeg'
@@ -15,7 +15,7 @@ featured: true
 
 
 
-![|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
+![维多利亚港|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
 
@@ -29,9 +29,11 @@ featured: true
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![Hojisan 使用 iPhone 14 Plus 主摄于重庆拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-Main-camera-by-Hojisan-Chongqing_121920221_inline.jpg.large_2x.jpg)
+![|inline](https://picshack.net/ib/ftrRIDDpv7)
 
-iPhone 14 和 iPhone 14 Plus 为摄影和摄像设立了新标准，搭载具备更大感光元件和像素尺寸的 1200 万像素主摄、首次配备自动对焦功能并采用 ƒ/1.9 光圈的全新前置原深感摄像头，以及超广角摄像头用于拍摄更宽广的场景。除此之外，光像引擎也带来低光表现的巨大跃升。
+![|inline](https://picshack.net/ib/NCwtcEUsx9)
+
+繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望，在生活的节奏中匆匆前行。穿过繁华的街道，我们来到了肯尼迪城的新海边。这片海，它的蓝，是如此纯净。新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
 通过软硬件深度集成，光像引擎能够提升所有摄像头在中低光环境下的照片表现：超广角摄像头表现提升可达 2 倍，原深感摄像头表现提升可达 2 倍，全新主摄表现提升可达 2.5 倍。iPhone 14 系列还推出全新的运动模式——即使在大幅的抖动和运动中，也能轻松拍摄无比丝滑的视频。
 
