@@ -59,13 +59,15 @@ featured: true
 
 ## 漫步在澳门街头
 
-![赵华鹏 使用 iPhone 14 Pro Max 主摄于三亚拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-with-the-Main-camera-by-Jamie-Sanya_12192022_inline.jpg.large_2x.jpg)
+![](https://picshack.net/ib/4Zza7IOZV7.jpeg)
 
-![Hojisan 使用 iPhone 14 Pro 主摄于重庆拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Main-camera-by-Hojisan-Chongqing_12192022_inline.jpg.large_2x.jpg)
+![](https://picshack.net/ib/kQBKlj22sY.jpeg)
 
-从日常到专业使用，iPhone 14 Pro 上推出的摄像头系统将为每一位用户赋能，令他们的照片和视频更出彩。全新 4800 万像素主摄采用四合一像素传感器，可根据拍摄照片进行调整，还具备第二代传感器位移式光学图像防抖功能，全面提升图像质量。这有利于复杂光线环境下的拍摄，尤其在低光条件下也能拍摄到优质的影像。此外，用户现可以用 4800 万像素拍摄 ProRAW 影像，利用每一个像素，为专业用户实现全新的创意工作流。
+![]([https://picshack.net/ib/qTSvTtBQ7K.jpeg)
 
-![Derrick Zhang 使用 iPhone 14 Pro 4800 万像素主摄于上海拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-in-48MP-ProRAW-by-Jamie-Shanghai_12192022_big.jpg.large_2x.jpg)
+![]([https://picshack.net/ib/M1cM7aWyu1.jpeg)
+
+![与来自迪拜的朋友见面，并合影留念](https://picshack.net/ib/M9TZrNKUNF.jpeg)
 
 
 ![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-in-48MP-ProRAW-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
