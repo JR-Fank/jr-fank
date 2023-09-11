@@ -33,6 +33,12 @@ featured: true
 
 ![|inline](https://picshack.net/ib/NCwtcEUsx9.jpeg)
 
+![|inline](https://picshack.net/ib/JTnAuo72Xp.jpeg)
+
+![|inline](https://picshack.net/ib/LVN8PQuBdY.jpeg)
+
+![|inline](https://picshack.net/ib/nRJfPFlGYv.jpeg)
+
 繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望，在生活的节奏中匆匆前行。穿过繁华的街道，我们来到了肯尼迪城的新海边。这片海，它的蓝，是如此纯净。新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
 通过软硬件深度集成，光像引擎能够提升所有摄像头在中低光环境下的照片表现：超广角摄像头表现提升可达 2 倍，原深感摄像头表现提升可达 2 倍，全新主摄表现提升可达 2.5 倍。iPhone 14 系列还推出全新的运动模式——即使在大幅的抖动和运动中，也能轻松拍摄无比丝滑的视频。
