@@ -14,7 +14,7 @@ featured: true
 ---
 
 
-![|wide](https://picshack.net/ib/GQbJ7miboU.jpeg)
+![](https://picshack.net/ib/GQbJ7miboU.jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
