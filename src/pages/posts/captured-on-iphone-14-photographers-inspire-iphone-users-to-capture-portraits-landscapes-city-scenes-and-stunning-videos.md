@@ -15,9 +15,9 @@ featured: true
 
 
 
-![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg)
+![|wide](https://picshack.net/ib/LfrpPyGsGw.jpeg)
 
-通过 iPhone 14 Pro Max，iPhone 14 Pro，iPhone 14 以及 iPhone 14 Plus 上突破性创新的摄像头系统，中国的摄影师们拍摄并分享令人惊艳的照片和视频，以此激励更多 iPhone 用户在即将到来的节日假期中捕捉亮丽的城市景观、迷人的自然风光，并记录下与亲人相聚的难忘时刻。
+我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
 ![小北 使用 iPhone 14 Pro 超广角摄像头于福州拍摄。 |inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Ultra-wide-camera-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
 
