@@ -43,7 +43,7 @@ featured: true
 
 ## 澳门伦敦人
 
-![](https://picshack.net/ib/UsbswJyhbB.jpeg)
+![|inline](https://picshack.net/ib/UsbswJyhbB.jpeg)
 
 ![|inline](https://picshack.net/ib/jIK9ZDyYqC.jpeg)
 
@@ -55,7 +55,7 @@ featured: true
 
 ![](https://picshack.net/ib/MSxvMZ5gBx.jpeg)
 
-金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。11
+金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
 ## 漫步在澳门街头
 
