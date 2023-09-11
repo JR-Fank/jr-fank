@@ -14,11 +14,11 @@ featured: true
 ---
 
 
-![|wide](https://picshack.net/ib/LfrpPyGsGw)
+![|wide](https://picshack.net/ib/LfrpPyGsGw,jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![](https://picshack.net/ib/qG5fBMUPct)
+![](https://picshack.net/ib/qG5fBMUPct.jpeg)
 
 ![Hojisan 使用 iPhone 14 Plus 主摄于重庆拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-Main-camera-by-Hojisan-Chongqing_121920221_inline.jpg.large_2x.jpg)
 
