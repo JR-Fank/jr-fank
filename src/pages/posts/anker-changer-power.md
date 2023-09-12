@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '『瞎折腾评测』充电器与充电宝的结合——Anker 超级充体验'
-pubDate: 2020-08-22
+pubDate: 2020-03-29
 description: 'Anker 的这个超极充，很早之前就开始关注了。看到这个充电宝&充电器的合体，觉得挺有意思的，马上入手体验'
 author: 'Chen shilin'
 cover:
