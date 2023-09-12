@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/ilibod.JPG'
     square: 'https://p.ipic.vip/ilibod.JPG'
     alt: 'cover'
-tags: ["新闻稿", "Apple", "HomePod"] 
+tags: ["原创", "Apple", "HomePod"] 
 theme: 'light'
 featured: true
 
