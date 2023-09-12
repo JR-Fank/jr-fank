@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '『瞎折腾评测』你的下一个移动电源，何必是移动电源！'
-pubDate: 2020-05-05
+pubDate: 2020-04-30
 description: '出门带上它一个就够了，并且 IDMIX旅行充还可以给支持无线充电的数码设备进行无线充'
 author: 'Chen shilin'
 cover:
