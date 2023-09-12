@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/pqutei.jpg'
     square: 'https://p.ipic.vip/pqutei.jpg'
     alt: 'cover'
-tags: ["硬盘盒", "测评", "Mac"]
+tags: ["硬盘盒", "测评", "Mac","原创"]
 theme: 'light'
 featured: false
 ---
