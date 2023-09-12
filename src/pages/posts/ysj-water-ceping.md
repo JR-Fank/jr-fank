@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/udjgn9.jpg'
     square: 'https://p.ipic.vip/udjgn9.jpg'
     alt: 'cover'
-tags: ["饮水机", "产品", "测评"]
+tags: ["饮水机", "产品", "测评","充电器"]
 theme: 'dark'
 featured: true
 ---
