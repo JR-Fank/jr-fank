@@ -13,7 +13,7 @@ theme: 'dark'
 featured: true
 ---
 
-
+[![Unboxing SHARGE 65W GaN POWER,It's an amazing experience](https://res.cloudinary.com/marcomontalbano/image/upload/v1694486888/video_to_markdown/images/youtube--k_L8QZqsN-I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/k_L8QZqsN-I "Unboxing SHARGE 65W GaN POWER,It's an amazing experience")
 
 ![|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
 
