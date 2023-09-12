@@ -9,14 +9,16 @@ cover:
     square: 'https://p.ipic.vip/qqrsf7.jpg'
     alt: 'cover'
 tags: ["充电器", "测评", "Apple","原创"]
-theme: 'light'
+theme: 'dark'
 featured: false
 ---
 
 
 ## ｜前言
 
-如今，随着数码行业的高速发展，快充已成为每天必不可少的要求，但功率越大所带来的重量和体积也不容小视，不久前拿到 iPhone 11 的我，可谓是又开心又烦恼，开心的是，iPhone 11 在你体验了之后才知道，真香机不是浪得虚名的，在 A13芯片的加持下带来了犹如德芙般丝滑享受，后置的浴霸双摄在夜景拍照上十分优秀，让我对这部手机非常的认可。但重点来了，都 9102年了，苹果偏心的只给 iPhone 11 标配了5V/1A，其充电速度真让人恼火！苹果万年不变的5V/1A充电器，充电速度可以说是超级慢了，自从上次被某体积超级小的GaN氮化镓充电头种草之后，我就一直在给自己的 iPhone 11 、MacBook Pro 寻找一款小体积、大功率、发热小 并且兼顾多种充电协议的充电器。
+如今，随着数码行业的高速发展，快充已成为每天必不可少的要求，但功率越大所带来的重量和体积也不容小视，不久前拿到 iPhone 11 的我，可谓是又开心又烦恼，开心的是，iPhone 11 在你体验了之后才知道，真香机不是浪得虚名的，在 A13芯片的加持下带来了犹如德芙般丝滑享受，后置的浴霸双摄在夜景拍照上十分优秀，让我对这部手机非常的认可。
+
+但重点来了，都 9102年了，苹果偏心的只给 iPhone 11 标配了5V/1A，其充电速度真让人恼火！苹果万年不变的5V/1A充电器，充电速度可以说是超级慢了，自从上次被某体积超级小的GaN氮化镓充电头种草之后，我就一直在给自己的 iPhone 11 、MacBook Pro 寻找一款小体积、大功率、发热小 并且兼顾多种充电协议的充电器。
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855427.jpg?size=4032x3024&imageMogr2/format/jpeg/quality/60)
 
@@ -115,13 +117,9 @@ RAVPower C to L 快充线采用苹果原装 C94端子头，最大支持 3A大电
 
 当然，软件测试的数据真实性仅供参考。
 
-RAVPower 61w 13%-100%用了将近3.7小时完成充电
+![RAVPower 61w 13%-100%用了将近3.7小时完成充电](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001856173.jpg?size=4032x2268&imageMogr2/format/jpeg/quality/60)
 
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001856173.jpg?size=4032x2268&imageMogr2/format/jpeg/quality/60)
-
-Apple 87w 13%-100%用了1.7小时完成充电
-
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001856665.jpg?size=4032x2268&imageMogr2/format/jpeg/quality/60)
+![Apple 87w 13%-100%用了1.7小时完成充电](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001856665.jpg?size=4032x2268&imageMogr2/format/jpeg/quality/60)
 
 虽然大功率带来了充电时间的缩短，但提到Apple 87w的体积和重量，已经毫无兴趣。
 
