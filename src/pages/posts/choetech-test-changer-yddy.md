@@ -5,8 +5,8 @@ pubDate: 2020-05-20
 description: '然而最近收到的 CHOETECH迪奥科10000mAh 18W双向快充移动电源，再一次让我感受到轻薄这两个字……'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/pqutei.jpg'
-    square: 'https://p.ipic.vip/pqutei.jpg'
+    url: 'https://p.ipic.vip/gnv5ic.jpg'
+    square: 'https://p.ipic.vip/gnv5ic.jpg'
     alt: 'cover'
 tags: ["移动电源", "测评", "Apple","原创"]
 theme: 'light'
