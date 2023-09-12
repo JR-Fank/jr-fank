@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: '『瞎折腾评测』性能小王子——电友X21 充电头简评'
 pubDate: 2020-09-16
 description: '说起电友 ELECJET，其实早前就想入手了，迫于当时难产，一直到现在才拿到它，期间在经历了某思的发热风波以及某米只有单口的不足后，终于在9月拿到了此款电友的新品，接下来为大家做一个简单的体验分享'
-author: '虚幻引擎官网'
+author: 'Chen shilin'
 cover:
     url: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
     square: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
