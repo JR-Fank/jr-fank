@@ -9,7 +9,7 @@ cover:
     square: 'https://p.ipic.vip/plh66r.JPG'
     alt: 'cover'
 tags: ["充电器", "Apple","原创","测评"]
-theme: 'light'
+theme: 'dark'
 featured: false
 ---
 
@@ -25,7 +25,7 @@ featured: false
 
 恰逢这几天征拓推出了SuperPort S3 二代，功率一致的同时再度缩小体积，比上一代减小10%，小巧便携才是真正的“氮化镓”，重量也仅仅只有100g
 
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330798.jpg?size=1080x1672&imageMogr2/format/jpeg/quality/60)
+![|inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/04/06/20210406101330798.jpg?size=1080x1672&imageMogr2/format/jpeg/quality/60)
 
 如果你还是感觉不到它的“小”，不要慌，我特意拿了一枚一元硬币和 AirPods Pro对比了一下
 
