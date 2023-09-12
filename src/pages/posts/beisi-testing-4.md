@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/mnhsld.JPG'
     square: 'https://p.ipic.vip/mnhsld.JPG'
     alt: 'cover'
-tags: ["测评", "散热器", "Apple","原创"] 
+tags: ["散热器", "测评", "Apple","原创"] 
 theme: 'dark'
 featured: false
 ---
