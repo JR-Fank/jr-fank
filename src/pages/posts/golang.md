@@ -23,23 +23,17 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/028931548114191852-1588580553789.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60)
 
-这是一款可以为笔记本电脑和手机进行快速充电的移动电源，让你高效办公，畅快出行
-
-售价：💰￥399
+这是一款可以为笔记本电脑和手机进行快速充电的移动电源，让你高效办公，畅快出行。售价：💰￥399
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/9500897428896877-1588583854689.png?size=954x336&imageMogr2/format/jpeg/quality/60)
 
-有需求的小伙伴可以趁 618 再入手！
-
-色彩十分小清新，共有黑色、绿色、灰色和红色四种配色
-
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/00297770662769703-1588580580825.jpg?size=790x444&imageMogr2/format/jpeg/quality/60)
 
-## 简单的开箱
+有需求的小伙伴可以趁 618 再入手！色彩十分小清新，共有黑色、绿色、灰色和红色四种配色
 
-产品的包装整体看上去还是非常精致的，并且标示了产品的实物图及产品各项参数信息
+## ｜简单的开箱
 
-重量方面为 290g【大概相当于两部 iPhone 11】
+产品的包装整体看上去还是非常精致的，并且标示了产品的实物图及产品各项参数信息；重量方面为 290g（大概相当于两部 iPhone 11）
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/17670043685952241-1588580620757.JPG?size=3867x2175&imageMogr2/format/jpeg/quality/60)
 
@@ -69,9 +63,10 @@ featured: false
 - 输出（USB-A）：QC18W（5V/3A,9V/2A,12V/1.5A）
 - 组合输出：5V/3A(Max)
 
-> 无线充电模式：10W/7.5W/5W
+> 无线充电模式：
 > 
-
+- 输出（QC）：10W/7.5W/5W
+  
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/397164976516017-1588580958759.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60)
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/3500738879064149-1588580998075.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60)
@@ -108,13 +103,15 @@ featured: false
 
 ## ｜总体而言：
 
-### 优点很明显
+优点很明显
 
-比如我经常出远门不仅要携带手机，电脑，还得带上各种充电设备等等…是真的非常麻烦，而这款IDMIX旅行充完全解决了以上的麻烦，出门带上它一个就够了，并且 IDMIX旅行充还可以给支持无线充电的数码设备进行无线充电
+比如我经常出远门不仅要携带手机，电脑，还得带上各种充电设备等等…是真的非常麻烦
+
+而这款IDMIX旅行充完全解决了以上的麻烦，出门带上它一个就够了，并且 IDMIX旅行充还可以给支持无线充电的数码设备进行无线充电
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/short_pic/2020/05/04/694908461570668-1588581407090.JPG?size=4032x2268&imageMogr2/format/jpeg/quality/60)
 
-### 缺点也有的
+缺点也有的
 
 10000mAh 的容量为笔记本充电是远远不够的，并且这个大个头实属笨重，而且在移动电源模式下的功率无法为我的 MacBook Pro 进行充电，外壳材质略显低廉
 
