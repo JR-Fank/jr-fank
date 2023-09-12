@@ -5,8 +5,8 @@ pubDate: 2020-07-07
 description: '苹果 AirPods Pro 上市的一个星期后，市面上各种铺天盖地的三代耳机就出炉了但做工都十分的粗糙'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/pqutei.jpg'
-    square: 'https://p.ipic.vip/pqutei.jpg'
+    url: 'https://p.ipic.vip/ocdtfx.JPG'
+    square: 'https://p.ipic.vip/ocdtfx.JPG'
     alt: 'cover'
 tags: ["AirPods Pro", "测评", "Apple","原创"]
 theme: 'dark'
