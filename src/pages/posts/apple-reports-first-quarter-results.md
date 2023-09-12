@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/plh66r.JPG'
     square: 'https://p.ipic.vip/plh66r.JPG'
     alt: 'cover'
-tags: ["充电器", "Apple"]
+tags: ["充电器", "Apple","原创","测评"]
 theme: 'light'
 featured: false
 ---
