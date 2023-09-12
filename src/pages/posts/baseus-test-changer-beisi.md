@@ -2,11 +2,11 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '『瞎折腾评测』还在用线充？无线充电你真的需要吗？Baseus无线充电'
 pubDate: 2019-12-20
-description: '其实 M.2 SSD 除了适用于电脑外，还可以装进 M.2硬盘盒，DIY 出一块高速高性能的移动硬盘，于是选择了这款ORICO NVENE M.2移动硬盘盒'
+description: '倍思这款极薄无线充电器在一定程度上确实也是可以方便我们的，特别是它只有 3cm的厚度，哪怕是摆设也特别好看！'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/pqutei.jpg'
-    square: 'https://p.ipic.vip/pqutei.jpg'
+    url: 'https://p.ipic.vip/kyv37t.jpg'
+    square: 'https://p.ipic.vip/kyv37t.jpg'
     alt: 'cover'
 tags: ["硬盘盒", "测评", "Mac","原创"]
 theme: 'light'
