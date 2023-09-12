@@ -88,9 +88,6 @@ featured: false
 
 我手头的设备：iPhone 11 iOS13.1.2版本，AirPods 但由于苹果在 iOS13.3 系统以下但充电限制，这款充电器对于我的 iPhone 11 最高只能支持 5W，好在只要升级到 iOS13.3 系统便可以解除其充电功率限制，不过官方温馨提示需搭配 QC3.0 充电头才可以最高触发 15W 快充！
 
-> 此处有我最爱的子枫妹妹，疯狂充电打 Call
-> 
-
 ![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819010692.png)
 
 当然，放上我的 AirPods 还是绰绰有余了，它的出现，让我再也不需要困扰耳机充电，随放随充，并且清一色白色的搭配简直要窒息
@@ -145,7 +142,7 @@ featured: false
 
 目前市面上有一家无线充电联盟 Air Fuel 就是专门研究这个的
 
-[data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ## ｜总结
 
