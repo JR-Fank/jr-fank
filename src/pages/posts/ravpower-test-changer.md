@@ -103,13 +103,13 @@ RAVPower C to L 快充线采用苹果原装 C94端子头，最大支持 3A大电
 
 早上8点出门到晚上6点回家 iPhone 11 剩余电量15%
 
-![-inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855151.jpg?size=774x1376&imageMogr2/format/jpeg/quality/60)
+![|inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855151.jpg?size=774x1376&imageMogr2/format/jpeg/quality/60)
 
 测试给iPhone 11使用RAVPower 61w充电套装进行充电，用iMazing进行查看充电器功率状态，在剩余电量只有15%时，这个“小玩意”的PD功率速度很快，接上不到3秒就已经基本完成升压到15w的过程。当电量到57%时，稳定在21w波动，整个充电过程峰值都不会超过30W，但在到达80%时，功率降为12w直到充满100%。并且“小玩意”在给 iPhone充电时的发热情况比较温和，和体感温度差不多，温度控制的不错。当然这就要归功于温控保护的功劳，出于安全考虑，RAVPower 61W充电器有多重安全保护，如过压保护、过温保护、短路保护等五重保护，同时充电器外壳也是使用阻燃材料，充电更加安全！
 
 - MacBook Pro ’15
 
-![-inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855142.jpg?size=1264x2247&imageMogr2/format/jpeg/quality/60)
+![|inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855142.jpg?size=1264x2247&imageMogr2/format/jpeg/quality/60)
 
 服役了一天的MBP也是时候给它“吃上饭”了，在满载运转下，输出功率已经稳步在60 W了。但这时候的“小玩意”温度已经达到温热的程度，相比其他的充电头发热控制还是蛮不错的。
 
