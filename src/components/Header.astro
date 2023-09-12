@@ -4,5 +4,24 @@ import Navigation from "./Navigation.astro";
 
 <header>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<style>
+  .archive-tag ul {
+    list-style: none; /* 去掉列表前面的点 */
+    padding: 0; /* 去掉列表的内边距 */
+  }
+
+  .archive-tag li {
+    margin-bottom: 10px; /* 可选：添加一些底部间距以分隔每个链接项 */
+  }
+
+  .archive-tag a {
+    text-decoration: none; /* 去掉链接的下划线 */
+  }
+
+  .archive-tag i {
+    margin-right: 10px; /* 设置图标和文本之间的右边距 */
+  }
+</style>
+
   <Navigation />
 </header>
