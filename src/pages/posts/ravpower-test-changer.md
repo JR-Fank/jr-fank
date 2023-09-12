@@ -94,10 +94,7 @@ RAVPower C to L 快充线采用苹果原装 C94端子头，最大支持 3A大电
 
 ## ｜充电测试
 
-说了这么多，没有真实操练怎么能行
-
-我手头上并没有电流电压表USB测试仪，测试软件使用了Mac上的软件：coconutBattery 和 iMazing
-
+说了这么多，没有真实操练怎么能行,我手头上并没有电流电压表USB测试仪，测试软件使用了Mac上的软件：coconutBattery 和 iMazing
 其实我一直都不是很赞同一些以专业仪器来测试数据得出数字化的结果，因为在用户使用的时候是感受不出数据结果的强大！
 
 日常使用对用户来讲也就是这款充电器到底快了多少，对于着急出门快充到底能缩短多少时间？所以我会站在普通用户的视角以我的日常来测试他的性能！
@@ -106,13 +103,13 @@ RAVPower C to L 快充线采用苹果原装 C94端子头，最大支持 3A大电
 
 早上8点出门到晚上6点回家 iPhone 11 剩余电量15%
 
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855151.jpg?size=774x1376&imageMogr2/format/jpeg/quality/60)
+![-inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855151.jpg?size=774x1376&imageMogr2/format/jpeg/quality/60)
 
 测试给iPhone 11使用RAVPower 61w充电套装进行充电，用iMazing进行查看充电器功率状态，在剩余电量只有15%时，这个“小玩意”的PD功率速度很快，接上不到3秒就已经基本完成升压到15w的过程。当电量到57%时，稳定在21w波动，整个充电过程峰值都不会超过30W，但在到达80%时，功率降为12w直到充满100%。并且“小玩意”在给 iPhone充电时的发热情况比较温和，和体感温度差不多，温度控制的不错。当然这就要归功于温控保护的功劳，出于安全考虑，RAVPower 61W充电器有多重安全保护，如过压保护、过温保护、短路保护等五重保护，同时充电器外壳也是使用阻燃材料，充电更加安全！
 
 - MacBook Pro ’15
 
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855142.jpg?size=1264x2247&imageMogr2/format/jpeg/quality/60)
+![-inline](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2023/08/22/20230822001855142.jpg?size=1264x2247&imageMogr2/format/jpeg/quality/60)
 
 服役了一天的MBP也是时候给它“吃上饭”了，在满载运转下，输出功率已经稳步在60 W了。但这时候的“小玩意”温度已经达到温热的程度，相比其他的充电头发热控制还是蛮不错的。
 
@@ -153,6 +150,8 @@ RAVPower使用几天下来，优点很明显，缺点也随之而来，
 ②. 单口Type C接口容易遇到瓶颈，像我出门在外如果碰上不止一款数码设备需要充电，单接口就不够用了。
 
 ③. 白色TPE快充线的外包材料实在是有点柔弱，不是特别耐用。
+
+---
 
 ## ｜充电头行业
 
