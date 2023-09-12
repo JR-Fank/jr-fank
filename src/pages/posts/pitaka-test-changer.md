@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/rdbkfu.jpeg'
     square: 'https://p.ipic.vip/rdbkfu.jpeg'
     alt: 'cover'
-tags: ["特写", "影视", "教育", "游戏", "3d", "新闻稿"]
+tags: ["充电基站", "测评", "充电器", "Apple"]
 theme: 'light'
 featured: true
 ---
@@ -31,7 +31,7 @@ featured: true
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816776.jpg?size=1920x1080&imageMogr2/format/jpeg/quality/60)
 
-平常就几部手机，有空陪跑 SNKRS ，而这些设备需要 Lightning 和 Type-C 数据线以及快充头数不胜数；Apple Watch 一块，AirPods 一个，都需要无线充电器；另外，虽然 iPhone可以共用一套充电插头，但是不可能给二件套同时充电，因此 Lightning 的数据线以及对应插座还得再准备一套
+平常就几部手机，有空陪跑 SNKRS ，而这些设备需要 Lightning 和 Type-C 数据线以及快充头数不胜数；Apple Watch 一块，AirPods 一个，都需要无线充电器；另外，虽然 iPhone 可以共用一套充电插头，但是不可能给二件套同时充电，因此 Lightning 的数据线以及对应插座还得再准备一套
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2021/03/13/20210313130816100.jpg?size=1919x1080&imageMogr2/format/jpeg/quality/60)
 
