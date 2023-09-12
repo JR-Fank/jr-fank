@@ -5,10 +5,10 @@ pubDate: 2020-09-16
 description: '说起电友 ELECJET，其实早前就想入手了，迫于当时难产，一直到现在才拿到它，期间在经历了某思的发热风波以及某米只有单口的不足后，终于在9月拿到了此款电友的新品，接下来为大家做一个简单的体验分享'
 author: '虚幻引擎官网'
 cover:
-    url: 'https://cdn2.unrealengine.com/vr-week-2023-header-4-1920x1080-376e6c48383f.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/vr-week-2023-header-4-1920x1080-376e6c48383f.jpg?resize=1&w=1920'
+    url: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
+    square: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
     alt: 'cover'
-tags: ["功能", "动画", "广播与实况", "虚幻引擎"]
+tags: ["测评", "充电器", "Apple", "原创"]
 theme: 'light'
 featured: false
 ---
@@ -59,7 +59,7 @@ featured: false
 
 ## ｜敲黑板（重点）
 
-### 「优点」
+「优点」
 
 1.手感过度舒适温润，磨砂手感真的太重要了
 2.C1、C2 口均支持 65w盲插
@@ -67,7 +67,7 @@ featured: false
 4.支持 5A 大电流，对一些大电流私有协议和笔记本充电兼容性较好
 5.温度控制得不错，没有某思过热的毛病
 
-### 「缺点」
+「缺点」
 
 1.做工依旧感人，充电口还是有点歪的，底面处理不够平整
 2.支持的协议不一定能稳定触发,需要多次尝试
@@ -75,4 +75,6 @@ featured: false
 
 ![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2020/09/15/20200915224714173.jpg?size=1919x1080)
 
-编辑点评：如果能配 5A 线基本可以上通杀所有协议，总之，如果没有多口要求我可能会选择 小米 或者 Anker ，相反冲这协议兼容性和磨砂材质我会选择 电友X21
+编辑点评：如果能配 5A 线基本可以上通杀所有协议。
+总之，如果没有多口要求我可能会选择 小米 或者 Anker 
+相反冲这协议兼容性和磨砂材质我会选择 电友X21
