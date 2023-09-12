@@ -142,8 +142,6 @@ featured: false
 
 目前市面上有一家无线充电联盟 Air Fuel 就是专门研究这个的
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 ## ｜总结
 
 倍思这款极薄无线充电器在一定程度上确实也是可以方便我们的，特别是它只有 3cm的厚度，放在书包绰绰有余，携带起来非常方便，简约大气的设计，就算很鸡肋，但我还是愿意安利在我的桌面上，哪怕是摆设也特别好看！
@@ -152,5 +150,6 @@ featured: false
 
 ![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819300800.png)
 
-以上就是本期测评的所有内容啦，如果你有更好的想法欢迎下方留言评论，更多精彩内容关注点赞，争取下期新内容的出现！
-
+以上就是本期测评的所有内容啦！
+如果你有更好的想法欢迎下方留言评论，
+更多精彩内容关注点赞，争取下期新内容的出现！
