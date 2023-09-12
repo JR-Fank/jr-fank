@@ -5,8 +5,8 @@ pubDate: 2023-09-09
 description: '摄影不仅是我的爱好，也是我表达和记录生活的一种方式。这些照片不仅仅是图像，它们背后都有一个故事，代表着我经历过的特殊时刻和情感。我希望通过我的作品将它们一一传达。'
 author: 'Chen shilin'
 cover:
-    url: 'https://picshack.net/ib/qG5fBMUPct.jpeg'
-    square: 'https://picshack.net/ib/qG5fBMUPct.jpeg'
+    url: 'https://picshack.net/ib/WFWFwsY0P8.jpeg'
+    square: 'https://picshack.net/ib/WFWFwsY0P8.jpeg'
     alt: 'cover'
 tags: ["摄影", "Apple","日常"] 
 theme: 'dark'
@@ -131,7 +131,7 @@ featured: true
 
 ## 深圳文和友
 
-![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://p.ipic.vip/fr3lxf.jpeg)
+![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://p.ipic.vip/8mysey.JPG)
 
 ![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://p.ipic.vip/fr3lxf.jpeg)
 
