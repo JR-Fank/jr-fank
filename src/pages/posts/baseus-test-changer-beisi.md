@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/kyv37t.jpg'
     square: 'https://p.ipic.vip/kyv37t.jpg'
     alt: 'cover'
-tags: ["硬盘盒", "测评", "Mac","原创"]
+tags: ["无线充电器", "测评", "充电器","原创"]
 theme: 'light'
 featured: false
 ---
