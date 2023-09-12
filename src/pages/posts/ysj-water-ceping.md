@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '『瞎折腾体验』我一定要安利这款颠覆你喝水习惯的小家伙'
-pubDate: 2021-03-13
+pubDate: 2020-12-09
 description: '这个“心想即热”饮水机的到来对我来说还真有点及时，我也非常好奇这个“小家伙”是如何让我“心想即热”的喝水的！'
 author: 'Chen shilin'
 cover:
