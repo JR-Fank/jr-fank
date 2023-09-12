@@ -1,0 +1,159 @@
+﻿---
+layout: '../../layouts/MarkdownPost.astro'
+title: '『瞎折腾评测』还在用线充？无线充电你真的需要吗？Baseus无线充电'
+pubDate: 2019-12-20
+description: '其实 M.2 SSD 除了适用于电脑外，还可以装进 M.2硬盘盒，DIY 出一块高速高性能的移动硬盘，于是选择了这款ORICO NVENE M.2移动硬盘盒'
+author: 'Chen shilin'
+cover:
+    url: 'https://p.ipic.vip/pqutei.jpg'
+    square: 'https://p.ipic.vip/pqutei.jpg'
+    alt: 'cover'
+tags: ["硬盘盒", "测评", "Mac","原创"]
+theme: 'light'
+featured: false
+---
+
+
+## ｜无线充电
+
+这个技术直到2010年才问世，但并没有什么大热头，其根本原因还是因为前期出现的无线充电技术充电效率低下、功率不足。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016298.png)
+
+但随着技术的逐渐成熟，无线充电已经逐步成为当下旗舰手机的标配功能，摆脱线材控制的同时提高了使用效率，未来智能设备全部支持无线充电将是大势所趋。在苹果取消了AirPower之后，市面上浮现出了各种各样的无线充电板，各种协议标准令人眼花缭乱
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819012681.png)
+
+作为苹果最受关注的配件之一，从闻名到流产，AirPower 都吸引着很多用户的目光。但AirPower 最终还是失败了
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819014442.png)
+
+苹果为了实现「多单位，随便放」的充电效果， AirPower 内部塞进了超过 20 个分层堆叠感应线圈，这就让「对准」成了最大难题，而且苹果为了颜值外观，不愿意在里面加风扇，这也就成为了被砍掉的原因了，可想而知如今的无线充电行业多么的不容易！
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819012698.png)
+
+直到我收到 Zealer寄来的这款倍思“极薄”无线充电板，让我对无线充电板有了新的理解！
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016331.png)
+
+聊完了「无线充电」的一些来头以后，我将分享我最近几天使用的这款无线充电板首先感谢下 Zealer这个平台给予我产品评测体验
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819010484.png)
+
+## ｜Baseus 卡片极薄无线充电板 15W
+
+整个的包装还是十分的简洁，非常的轻薄，0.3cm自然也就成为了它的卖点。
+
+当然还有另一个非常有趣的黑科技，我将亲身试验，在文章下文为你介绍喔。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819013751.png)
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819013943.png)
+
+我对这款无线充电器的印象是一股浓浓的苹果味，至少在无线充电器这个领域的颜值应该是扛得住的。包装也做的非常的简洁，硬纸材质显得非常有质感。包装盒内印有一行小字——“15w Quick Charge as Thin as Paper”标示着它支持 15w无线快充，整个包装盒虽然简洁，但极具文艺气息的设计感。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819009424.png)
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819015390.png)
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819010654.png)
+
+这次我拿到的是白色版本，充电器材质由锌合金和钢化玻璃组成，钢化玻璃面板能有效的散热，使其发热量减少，包装内除了无线充电器，还贴心的附赠了收纳袋，以及保修卡等……
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819012589.png)
+
+相比较与银行卡，更是直接显示出它的极薄！！这么小巧等充电器，对于我出门为 AirPods 充电提供了极大的便利，不过也仅限于 AirPods，我的 Apple Watch 磁性充电也便无缘无线充电器了。而且手机充电为了追求快，我还是会选择 PD快充。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819011019.png)
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819009761.png)
+
+看完外观，有没有内涵才是硬道理，在我实际使用过程中，基本不会发现发热，可能跟其使用材质有关，充电线长1米，并且在充电头有一个亮点，在我晚上充电的时候，惊奇的发现 USB 头竟然是可以发光的，这么贴心的设计小细节，顿时让我对倍思这个品牌印象加分。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016447.png)
+
+值得一提的是，我了解过这款产品，它的充电电路板并不在充电板内，而是被移到了 USB 接头上了，很好得解决了手机接触线圈过热问题！白色呼吸灯优雅柔和，不会特别刺眼
+
+白灯常亮：正在充电，完成充电 白灯闪烁：手机位置放偏或者有异物遮挡
+
+背面采用了4个防滑胶垫，有助于增大与桌面之间的摩擦，设计十分巧妙
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016549.png)
+
+接下来让我们来看一下赠送的粘贴式收纳袋，官方宣称可以边玩边充，“游戏充电不挡手”，说实话一开始我以为是有磁力可以直接吸附在手机背面的，但当我拆开发现它是粘贴式的时候，我对此十分的反感
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819012155.png)
+
+## ｜使用体验
+
+我手头的设备：iPhone 11 iOS13.1.2版本，AirPods 但由于苹果在 iOS13.3 系统以下但充电限制，这款充电器对于我的 iPhone 11 最高只能支持 5W，好在只要升级到 iOS13.3 系统便可以解除其充电功率限制，不过官方温馨提示需搭配 QC3.0 充电头才可以最高触发 15W 快充！
+
+> 此处有我最爱的子枫妹妹，疯狂充电打 Call
+> 
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819010692.png)
+
+当然，放上我的 AirPods 还是绰绰有余了，它的出现，让我再也不需要困扰耳机充电，随放随充，并且清一色白色的搭配简直要窒息
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819017387.png)
+
+可怜我的 Apple Watch 却与他无缘，想想要是手表也能用上它该有多好
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016282.png)
+
+**敲黑板！！重点黑科技来了！！**
+
+如果不是仔细研究过这款产品，你不会相信它居然是可以支持 IP67级别的防尘防水，在我目前使用过的无线充电器来说，这还是第一款支持防水的无线充电器，让你无所畏惧桌面上的水杯
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819011993.png)
+
+回归真题，作为一款无线充电器，我认为加入防水功能并没有什么大作用，难道你会闲得蛋疼把手机丢在水里充电？？又或者将它丢到水杯里做装饰？？ 何不把产品的重点放在支持更多充电协议上以及同时充电多台设备上呢。在这方面我认为苹果的想法可能更加成熟些。
+
+越来越多的企业似乎都脱离了无线充电器这类产品的定位及真正的作用意义，产品的定位缺少，再怎么加入众多看上去花里胡哨的功能，无非只是吸吸眼球罢了。
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819013413.png)
+
+## ｜现阶段的无线充电是什么样子的？
+
+从一开始它的出现，就被diss得很惨，充电速度慢，充电受限制，一直是以鸡肋的形式存在，或许它不应该出现在手机？而应该存在于手机周边配件？无线耳机，无线手表等等……
+
+一直吐槽它，那么无线充电它到底好在哪？
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819014791.png)
+
+只要是坐办公室的上班族，用了基本都会爱上的！把手机一放，立马充电
+
+不用再使劲怼屁股，插插拔拔的
+
+偶尔起身上个厕所、接电话，直接拿起来就行！
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819014891.png)
+
+突然的灵机一动让我把它改造成了立式无线充电器，更加方便操作使用
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819016873.png)
+
+并且有一丢丢让你觉得有好处的地方：取消了耳机孔的手机，又能边充电边听歌了！当然我可能是个例外，还是会选择更为方便的无线耳机
+
+## ｜我认为未来的无线充电应该是什么样的？
+
+相信无线充电的这个痛点各位都很清楚，必须放在一个地方，不能边充边拿起来玩，其实你只要稍微靠近一点，不用放上去都是可以充电的，这就是电磁感应式充电原理上的问题，目前没有很好的解决办法
+
+但未来一定会解决，未来的无线充电器肯定是可以到处跑，随便玩都可以充电的状态，这就要说到“磁共振无线充电”了，但它功耗很高，对人体的辐射也是非常大的！
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819006646.png)
+
+目前市面上有一家无线充电联盟 Air Fuel 就是专门研究这个的
+
+[data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## ｜总结
+
+倍思这款极薄无线充电器在一定程度上确实也是可以方便我们的，特别是它只有 3cm的厚度，放在书包绰绰有余，携带起来非常方便，简约大气的设计，就算很鸡肋，但我还是愿意安利在我的桌面上，哪怕是摆设也特别好看！
+
+目前最可靠的无线充电方案还是电磁感应式，并且随着发展速度越来越快；未来的形态会更加接近于磁共振式。相信随着技术的进步，未来可能已经并不遥远了，毕竟无线充电在一定领域还是有它的用武之地！
+
+![](https://zealerimg-10019683.cos.ap-shanghai.myqcloud.com/long_pic/2019/12/20/1576819300800.png)
+
+以上就是本期测评的所有内容啦，如果你有更好的想法欢迎下方留言评论，更多精彩内容关注点赞，争取下期新内容的出现！
+
