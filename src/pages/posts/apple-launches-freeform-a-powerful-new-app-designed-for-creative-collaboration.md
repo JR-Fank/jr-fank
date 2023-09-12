@@ -9,7 +9,7 @@ cover:
     square: 'https://p.ipic.vip/kjsiwp.JPG'
     alt: 'cover'
 tags: ["散热器", "Apple","原创","测评"] 
-theme: 'light'
+theme: 'dark'
 featured: true
 ---
 
