@@ -9,7 +9,7 @@ cover:
     square: 'https://p.ipic.vip/pqutei.jpg'
     alt: 'cover'
 tags: ["AirPods Pro", "测评", "Apple","原创"]
-theme: 'light'
+theme: 'dark'
 featured: false
 ---
 
