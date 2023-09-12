@@ -20,7 +20,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         <h2 class="tag-header">联系我</h2>
         <div class="tag-post-list">
           <ul>
-           <li>
+           <li class="list-item-icon">
               <a href="https://twitter.com/JRFank8888" target="_blank">
                 <i class="fab fa-twitter"></i> Twitter
               </a>
@@ -56,6 +56,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       display: flex; /* 使用 Flex 布局以实现图标和文本左对齐 */
       align-items: center; /* 垂直居中对齐图标和文本 */
       text-decoration: none; /* 去掉链接的下划线 */
+    }
+
+    .list-item-icon {
+      display: flex; /* 使用 Flex 布局以实现图标和文本左对齐 */
+      align-items: center; /* 垂直居中对齐图标和文本 */
+    }
+
+    .list-item-icon i {
+      margin-right: 10px; /* 设置图标和文本之间的右边距 */
     }
   </style>
 </BaseLayout>
