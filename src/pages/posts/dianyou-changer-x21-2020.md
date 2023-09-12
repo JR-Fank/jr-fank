@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
     square: 'https://p.ipic.vip/za4iqm.jpg?resize=1&w=1920'
     alt: 'cover'
-tags: ["测评", "充电器", "Apple", "原创"]
+tags: ["充电器", "测评", "Apple", "原创"]
 theme: 'light'
 featured: false
 ---
