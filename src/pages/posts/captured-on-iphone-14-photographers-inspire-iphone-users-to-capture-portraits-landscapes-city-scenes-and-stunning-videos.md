@@ -5,8 +5,8 @@ pubDate: 2023-09-09
 description: '摄影不仅是我的爱好，也是我表达和记录生活的一种方式。这些照片不仅仅是图像，它们背后都有一个故事，代表着我经历过的特殊时刻和情感。我希望通过我的作品将它们一一传达。'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/8mysey.JPG'
-    square: 'https://p.ipic.vip/8mysey.JPG'
+    url: 'https://p.ipic.vip/817m3u.jpg'
+    square: 'https://p.ipic.vip/817m3u.jpg'
     alt: 'cover'
 tags: ["摄影", "原创","日常"] 
 theme: 'dark'
