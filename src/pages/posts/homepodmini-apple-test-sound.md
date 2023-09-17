@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/lqnf8c.jpg'
     square: 'https://p.ipic.vip/lqnf8c.jpg'
     alt: 'cover'
-tags: ["视频", "测评", "Apple","原创"]
+tags: ["视频", "测评", "Apple","原创","音响"]
 theme: 'light'
 featured: false
 ---
