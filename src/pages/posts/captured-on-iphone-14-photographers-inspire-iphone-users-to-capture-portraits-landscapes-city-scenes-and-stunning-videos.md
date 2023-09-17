@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/kkqrwa.jpg'
     square: 'https://p.ipic.vip/kkqrwa.jpg'
     alt: 'cover'
-tags: ["摄影作品集", "原创","日常"] 
+tags: ["摄影作品集", "原创","日常","摄影"] 
 theme: 'dark'
 featured: true
 ---
