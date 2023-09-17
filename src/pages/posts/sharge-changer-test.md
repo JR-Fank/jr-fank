@@ -1,12 +1,12 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '『瞎折腾评测』又刚又能打，闪极65w氮化镓充电器'
-pubDate: 2020-06-11
+title: '『全新 有道词典笔 2.0 纯个人使用体验』'
+pubDate: 2019-09-01
 description: ''
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/ipxmmf.JPG'
-    square: 'https://p.ipic.vip/ipxmmf.JPG'
+    url: 'https://p.ipic.vip/n7s952.jpg'
+    square: 'https://p.ipic.vip/n7s952.jpg'
     alt: 'cover'
 tags: ["视频", "测评", "充电器","原创"]
 theme: 'light'
