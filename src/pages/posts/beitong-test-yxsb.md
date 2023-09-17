@@ -8,7 +8,7 @@ cover:
     url: 'https://p.ipic.vip/kjsiwp.JPG'
     square: 'https://p.ipic.vip/kjsiwp.JPG'
     alt: 'cover'
-tags: ["散热器", "Apple","原创","测评"] 
+tags: ["游戏手柄", "Apple","原创","测评"] 
 theme: 'dark'
 featured: true
 ---
