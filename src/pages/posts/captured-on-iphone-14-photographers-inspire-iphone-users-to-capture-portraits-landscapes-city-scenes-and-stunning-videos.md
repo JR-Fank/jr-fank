@@ -14,7 +14,7 @@ featured: true
 ---
 
 
-![|wide](https://picshack.net/ib/qG5fBMUPct.jpeg)
+![|wide](https://www.imagehub.cc/image/rXQjSa.jpeg)
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
 
