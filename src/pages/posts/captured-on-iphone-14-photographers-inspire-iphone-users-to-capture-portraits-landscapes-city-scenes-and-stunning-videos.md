@@ -53,7 +53,7 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://p.sda1.dev/13/2d88aa39fe9d701bbb5a2fbf96a39493/tinywow_6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE_34837161.jpg)
+![|inline](https://raw.gitmirror.com/JR-Fank/mypic/img/img/tinywow_6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE_34837161.jpg)
 
 ![|inline](https://p.sda1.dev/13/f36f23a35e3a22d8abe367d8b684a70b/tinywow_E8C0452E-8C89-4BD1-A39D-6A09D7A4E657-34289-000009BD2383699C_34837464.jpg)
 
