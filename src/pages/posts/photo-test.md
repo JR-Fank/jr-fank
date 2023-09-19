@@ -53,11 +53,11 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://cdn.jsdelivr.net/gh/JR-Fank/mypic/img/img/tinywow_6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE_34837161.jpg)
+![|inline](https://p.ipic.vip/bvstck.JPG)
 
-![|inline](https://pic.imgdb.cn/item/6509a01bc458853aef30255e.jpg)
+![|inline](https://p.ipic.vip/yyd3jv.JPG)
 
-![|inline](https://p.ipic.vip/32i03r.jpg)
+![|inline](https://p.ipic.vip/cqdp7c.JPG)
 
 ![](https://picshack.net/ib/2uyxreU6oe.jpeg)
 
@@ -69,64 +69,64 @@ featured: true
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](https://picshack.net/ib/kQBKlj22sY.jpeg)
+![](https://p.ipic.vip/7t4x6s.jpeg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://p.ipic.vip/p0bw9m.JPG)
+![](https://p.ipic.vip/7t4x6s.jpeg)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](https://p.ipic.vip/9ybhu3.jpeg)
+![](https://p.ipic.vip/u3k1ws.jpeg)
 
-![](https://p.ipic.vip/ton3r2.JPG)
+![](https://p.ipic.vip/4hjlgi.JPG)
 
 ![与来自迪拜的朋友见面，并合影留念](https://p.ipic.vip/925w46.JPG)
 
 ## 珠海大剧院
 
-![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://p.ipic.vip/bugv7a.JPG)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://p.ipic.vip/fgu54l.JPG)
 
-![晚霞如火如荼，美得像一幅油画](https://p.ipic.vip/n3qmtp.jpg)
+![晚霞如火如荼，美得像一幅油画](https://p.ipic.vip/c3dt0k.jpeg)
 
-![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://p.ipic.vip/co7quk.jpeg)
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://p.ipic.vip/tl0kot.jpeg)
 
 
 ## 广州圣心大教堂
 
 广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-![](https://p.ipic.vip/ee4o31.jpeg)
+![](https://p.ipic.vip/vtvrvt.jpeg)
 
-![](https://p.ipic.vip/3jfozt.jpeg)
+![](https://p.ipic.vip/ljdpyj.jpeg)
 
-![|inline](https://p.ipic.vip/t9mlde.jpeg)
+![|inline](https://p.ipic.vip/3v8juz.jpeg)
 
-![|inline](https://p.ipic.vip/z521zd.jpeg)
+![|inline](https://p.ipic.vip/nrb9zg.jpeg)
 
-![|inline](https://p.ipic.vip/gp3jb1.jpeg)
+![|inline](https://p.ipic.vip/b5tl6h.jpeg)
 
-![|inline](https://p.ipic.vip/94rer5.jpeg)
+![|inline](https://p.ipic.vip/1tbfge.jpeg)
 
 ## 广州
 
-![](https://p.ipic.vip/59866e.jpeg)
+![](https://p.ipic.vip/9h5gg0.jpeg)
 
-![](https://p.ipic.vip/l3ugp1.JPG)
+![](https://p.ipic.vip/azrw96.JPG)
 
 ## 人来人往
 
 开始延时摄影后，我在一旁观看寺庙周围的一切。随着游客们一个接一个地离开，寺庙里渐渐安静下来，只有微风拂过树木的声音和远处车辆的杂音。这种宁静让我平静下来，仿佛进入了一个完全不同的世界。
 
-![广州北京路普觉楼](https://p.ipic.vip/mxs116.jpeg)
+![广州北京路普觉楼](https://p.ipic.vip/fos86b.jpeg)
 
 ## 深圳华润大厦
 
 我拍摄了这座现代城市的魅力，它的摩天大楼就像一头头猛兽。
 
-![](https://p.ipic.vip/329h7i.JPG)
+![](https://p.ipic.vip/1m731z.JPG)
 
-![](https://p.ipic.vip/en2n5q.JPG)
+![](https://p.ipic.vip/tajpo5.JPG)
 
 ## 深圳文和友
 
