@@ -69,27 +69,27 @@ featured: true
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](https://p.ipic.vip/7t4x6s.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/IMG_8651.jpeg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://p.ipic.vip/cj509h.JPG)
+![](https://s1.imagehub.cc/images/2023/09/20/4001B16F-B45C-44B3-8FF5-7198B0785496-34289-000009B3EA8D2297.jpeg)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](https://p.ipic.vip/u3k1ws.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/IMG_8675.jpeg)
 
-![](https://p.ipic.vip/4hjlgi.JPG)
+![](https://s1.imagehub.cc/images/2023/09/20/59A523CE-ABE1-484D-BB25-EF38293DB7EC-34289-000009B7D554FDD2.jpeg)
 
-![与来自迪拜的朋友见面，并合影留念](https://p.ipic.vip/925w46.JPG)
+![与来自迪拜的朋友见面，并合影留念](https://s1.imagehub.cc/images/2023/09/20/IMG_6439.jpeg)
 
 ## 珠海大剧院
 
-![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://p.ipic.vip/fgu54l.JPG)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://s1.imagehub.cc/images/2023/09/20/3380991C-9AB0-4689-A7BE-4870E1CE2641-17769-000004768F049B79.jpeg)
 
-![晚霞如火如荼，美得像一幅油画](https://p.ipic.vip/c3dt0k.jpeg)
+![晚霞如火如荼，美得像一幅油画](https://s1.imagehub.cc/images/2023/09/20/IMG_8338.jpeg)
 
-![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://p.ipic.vip/tl0kot.jpeg)
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://s1.imagehub.cc/images/2023/09/20/DSCF1163.jpeg)
 
 
 ## 广州圣心大教堂
