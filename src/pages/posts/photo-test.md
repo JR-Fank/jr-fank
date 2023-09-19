@@ -57,7 +57,7 @@ featured: true
 
 ![|inline](https://pic.imgdb.cn/item/6509a01bc458853aef30255e.jpg)
 
-![|inline](https://pic.imgdb.cn/item/6509a01ac458853aef302525.jpg)
+![|inline](https://p.ipic.vip/32i03r.jpg)
 
 ![](https://picshack.net/ib/2uyxreU6oe.jpeg)
 
