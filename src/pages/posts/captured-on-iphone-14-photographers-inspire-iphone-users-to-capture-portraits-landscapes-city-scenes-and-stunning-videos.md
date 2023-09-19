@@ -25,7 +25,7 @@ featured: true
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![](https://picshack.net/ib/VDywve8LAJ.jpeg)
+![](https://p.ipic.vip/618kmu.jpg)
 
 ![](https://picshack.net/ib/WFWFwsY0P8.jpeg)
 
