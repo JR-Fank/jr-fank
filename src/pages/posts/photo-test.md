@@ -35,7 +35,7 @@ featured: true
 
 在生活的节奏中匆匆前行。
 
-![](https://p.ipic.vip/qm7h59.jpeg)
+![](https://z1.ax1x.com/2023/09/19/pP5J4jP.md.jpg)
 
 穿过繁华的街道，我们来到了坚尼地城新海旁。
 
