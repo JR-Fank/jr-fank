@@ -27,11 +27,11 @@ featured: true
 
 ![](https://s1.imagehub.cc/images/2023/09/19/DSCF1238.jpeg)
 
-![](https://p.ipic.vip/xipyzc.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF1256.jpeg)
 
 繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
 
-![](https://p.ipic.vip/13ny85.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF6204.jpeg)
 
 在生活的节奏中匆匆前行。
 
