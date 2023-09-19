@@ -53,7 +53,7 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://pic.imgdb.cn/item/65099a5dc458853aef2eb2cc.jpg)
+![|inline](https://cdn.jsdelivr.net/gh/JR-Fank/mypic/img/img/tinywow_6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE_34837161.jpg)
 
 ![|inline](https://pic.imgdb.cn/item/6509a01bc458853aef30255e.jpg)
 
