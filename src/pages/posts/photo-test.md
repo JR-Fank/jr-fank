@@ -39,31 +39,31 @@ featured: true
 
 穿过繁华的街道，我们来到了坚尼地城新海旁。
 
-![](https://p.ipic.vip/vi1mo3.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF6287.jpeg)
 
 这片海，它的蓝，是如此纯净。
 
-![|inline](https://p.ipic.vip/ktfa4t.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/DSCF6288.jpeg)
 
 新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
-![|inline](https://p.ipic.vip/9iwh4k.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/E7AAF5B9-B5FF-481A-AF1F-2234CD95BAC6-29354-00000812CECDAF5B.jpeg)
 
 ## 澳门伦敦人
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://p.ipic.vip/bvstck.JPG)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE.jpeg)
 
-![|inline](https://p.ipic.vip/yyd3jv.JPG)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/E8C0452E-8C89-4BD1-A39D-6A09D7A4E657-34289-000009BD2383699C.jpeg)
 
-![|inline](https://p.ipic.vip/cqdp7c.JPG)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/4F744841-83FA-4677-8826-AC070C85AE54-33958-0000098A2824A216.jpeg)
 
-![](https://picshack.net/ib/2uyxreU6oe.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF6816.jpeg)
 
-![](https://picshack.net/ib/lZTwNM2Qv7.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF6743.jpeg)
 
-![](https://picshack.net/ib/MSxvMZ5gBx.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF6828.jpeg)
 
 ## 漫步在澳门街头
 
