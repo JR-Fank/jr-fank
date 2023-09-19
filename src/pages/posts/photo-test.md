@@ -73,7 +73,7 @@ featured: true
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://p.ipic.vip/7t4x6s.jpeg)
+![](https://p.ipic.vip/cj509h.JPG)
 
 这是澳门传统与现代交汇的迷人时刻。
 
