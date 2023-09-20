@@ -96,100 +96,100 @@ featured: true
 
 广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-![](https://p.ipic.vip/vtvrvt.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF5827.jpeg)
 
-![](https://p.ipic.vip/ljdpyj.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSCF5813.jpeg)
 
-![|inline](https://p.ipic.vip/3v8juz.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/IMG_4939.jpeg)
 
-![|inline](https://p.ipic.vip/nrb9zg.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/DSCF5832.jpeg)
 
-![|inline](https://p.ipic.vip/b5tl6h.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/F608BA6F-8E53-4981-BB93-462BF4A21554-29941-0000088824E034CD.jpeg)
 
-![|inline](https://p.ipic.vip/1tbfge.jpeg)
+![|inline](https://s1.imagehub.cc/images/2023/09/20/DSCF5828.jpeg)
 
 ## 广州
 
-![](https://p.ipic.vip/9h5gg0.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/20/DSC02192.jpeg)
 
-![](https://p.ipic.vip/azrw96.JPG)
+![](https://s1.imagehub.cc/images/2023/09/20/IMG_1236.jpeg)
 
 ## 人来人往
 
 开始延时摄影后，我在一旁观看寺庙周围的一切。随着游客们一个接一个地离开，寺庙里渐渐安静下来，只有微风拂过树木的声音和远处车辆的杂音。这种宁静让我平静下来，仿佛进入了一个完全不同的世界。
 
-![广州北京路普觉楼](https://p.ipic.vip/fos86b.jpeg)
+![广州北京路普觉楼](https://s1.imagehub.cc/images/2023/09/20/DSCF5869.jpeg)
 
 ## 深圳华润大厦
 
 我拍摄了这座现代城市的魅力，它的摩天大楼就像一头头猛兽。
 
-![](https://p.ipic.vip/1m731z.JPG)
+![](https://s1.imagehub.cc/images/2023/09/20/DSC02882.jpeg)
 
-![](https://p.ipic.vip/tajpo5.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_1764.jpeg)
 
 ## 深圳文和友
 
-![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://p.ipic.vip/8mysey.JPG)
+![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://s1.imagehub.cc/images/2023/09/21/D6F6BF1A-3DBD-42A9-AC87-FB401D5758B2-27149-000006829F3B371B.jpeg)
 
-![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://p.ipic.vip/fr3lxf.jpeg)
+![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://s1.imagehub.cc/images/2023/09/21/6FD8A020-87E1-4AC8-B77D-337E47C12B02-27149-00000682B64979E2-1.jpeg)
 
 ## 杨千嬅
 
-![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://p.ipic.vip/wvxkir.jpg)
+![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://s1.imagehub.cc/images/2023/09/21/DSCF6919-2.jpeg)
 
-![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://p.ipic.vip/0pipwr.jpg)
+![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://s1.imagehub.cc/images/2023/09/21/DSCF7161-2.jpeg)
 
 ## 凝视这一瞬间
 
 傍晚，路上车水马龙。车灯闪烁，呼啸声充斥耳畔。此时此刻，他或许在思考生活的匆忙，或许在思索内心的追求。光与影的交错映衬出他深邃的眼神，似乎在寻找答案。
 
-![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://p.ipic.vip/9jy69a.JPG)
+![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://s1.imagehub.cc/images/2023/09/21/DSC00044.jpeg)
 
 ## 人像摄影
 
-![](https://p.ipic.vip/q98mdb.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC03100.jpeg)
 
-![](https://p.ipic.vip/1l8701.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC03225.jpeg)
 
-![](https://p.ipic.vip/ctbwy1.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00506.jpeg)
 
-![](https://p.ipic.vip/3twdu2.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00066.jpeg)
 
-![](https://p.ipic.vip/amdisa.jpeg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00523.jpeg)
 
 ## 发现优秀的产品设计
 
 各种产品的设计之美给我留下了深刻印象。这让我想起了我读过的一本书《史蒂夫-乔布斯传》。
 乔布斯追求完美的精神和独特的设计理念让我受益匪浅。每张照片都是设计的写照，传达着人的思想和情感。
 
-![](https://p.ipic.vip/6v8jsa.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/nt16-2021-08-18-110341.899.jpeg)
 
-![](https://p.ipic.vip/8c9234.jpg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC03306.jpeg)
 
-![](https://p.ipic.vip/vl9fp2.jpg)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02145.jpeg)
 
-![](https://p.ipic.vip/9zd20l.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00594.jpeg)
 
 ## 绚丽的烟花
 
 2023年的春节，迎来了一场绚丽的烟花盛宴。寒冷的冬夜，我的心却是暖暖的。这些照片将永远留在我的心里，见证我和家人一起度过的温暖春节，记录下美好瞬间的珍贵记忆。
 
-![](https://p.ipic.vip/7qny4p.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02448.jpeg)
 
-![](https://p.ipic.vip/wtgoqv.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02456.jpeg)
 
-![](https://p.ipic.vip/flcbia.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02457.jpeg)
 
-![](https://p.ipic.vip/oh515h.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02459.jpeg)
 
-![年夜饭](https://p.ipic.vip/o3itis.JPG)
+![年夜饭](https://s1.imagehub.cc/images/2023/09/21/IMG_3018.jpeg)
 
-![](https://p.ipic.vip/pw01l3.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02433.jpeg)
 
-![](https://p.ipic.vip/kqwce5.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02491.jpeg)
 
-![](https://p.ipic.vip/jmf78z.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC02479.jpeg)
 
 ## 触发食物味蕾
 
