@@ -195,23 +195,23 @@ featured: true
 
 每一帧都是味觉和视觉的盛宴，记录下这些美丽的瞬间让我感到满满的幸福。
 
-![](https://p.ipic.vip/y80gxi.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_1088_jpg.jpeg)
 
-![](https://p.ipic.vip/4uqv80.jpg)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_5680.jpeg)
 
-![](https://p.ipic.vip/gmxn92.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_1769.jpeg)
 
-![](https://p.ipic.vip/d2ajcv.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_8958.jpeg)
 
-![](https://p.ipic.vip/s76u83.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_4510.jpeg)
 
 ## 月球表面
 
 2023 年 6 月 4 日，相机定格在月球表面，皎洁的月光照亮了月球的高山和深谷。细节清晰可见，仿佛能感受到尘埃的质感。月球上的环形山和纹路也清晰可辨，仿佛是时间的见证者。这张照片成了我记录这个奇妙夜晚的珍贵藏品。月光照耀下的月球表面，永远是我心中最美的画面。
 
-![](https://p.ipic.vip/8qjq2n.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSCF0259.jpeg)
 
-![](https://p.ipic.vip/w8u22r.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSCF0041.jpeg)
 
 ## 我的家乡 - 汕头
 
