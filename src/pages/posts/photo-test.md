@@ -25,7 +25,7 @@ featured: true
 
 ![](https://i2.100024.xyz/2023/09/22/afg6y.webp)
 
-![](/public/DSCF5828.jpeg)
+![](/DSCF5828.jpeg)
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
