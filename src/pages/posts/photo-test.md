@@ -217,13 +217,13 @@ featured: true
 
 这就是我的家乡汕头，我住在靠海的地方，城市的夜晚灯火通明，像星星点点的钻石散落在黑夜里。海风习习，让人心旷神怡。远处的船只在海面上熠熠生辉，仿佛黑夜里的精灵。此时此刻，汕头展现出她不同寻常的美
 
-![](https://p.ipic.vip/zilae7.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_1211.jpeg)
 
-![](https://p.ipic.vip/lzto0w.jpg)
+![](https://s1.imagehub.cc/images/2023/09/21/IMG_7280.jpeg)
 
-![](https://p.ipic.vip/zajga8.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00356.jpeg)
 
-![](https://p.ipic.vip/bpxamr.JPG)
+![](https://s1.imagehub.cc/images/2023/09/21/DSC00356.jpeg)
 
 ## 品牌设计
 
