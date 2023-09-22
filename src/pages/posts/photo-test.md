@@ -18,40 +18,36 @@ featured: true
 
 我捕捉到了维多利亚港上空乌云密布的壮丽景色，这仿佛是一首大自然的交响乐。
 
-![](/photo/2.jpeg)
-
-![](/photo/3.jpeg)
-
 ## 香港维多利亚港
 前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
 
-![](https://p.ipic.vip/pm5ath.jpeg)
+![](/photo/2.jpeg)
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![](https://p.ipic.vip/5whvx4.jpeg)
+![](/photo/3.jpeg)
 
-![](https://pic.imgdb.cn/item/650d870fc458853aef5198de.jpg)
+![](/photo/4.jpeg)
 
 繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
 
-![](https://pic.imgdb.cn/item/650d8712c458853aef519d1e.jpg)
+![](/photo/5.jpeg)
 
 在生活的节奏中匆匆前行。
 
-![](https://pic.imgdb.cn/item/650d870fc458853aef5197ea.jpg)
+![](/photo/6.jpeg)
 
 穿过繁华的街道，我们来到了坚尼地城新海旁。
 
-![](https://pic.imgdb.cn/item/650d8711c458853aef519c1d.jpg)
+![](/photo/7.jpeg)
 
 这片海，它的蓝，是如此纯净。
 
-![|inline](https://pic.imgdb.cn/item/650d87b9c458853aef52d59c.jpg)
+![|inline](/photo/8.jpeg)
 
 新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
-![|inline](https://pic.imgdb.cn/item/650d87b8c458853aef52d4ca.jpg)
+![|inline](/photo/9.jpeg)
 
 ## 澳门伦敦人
 
