@@ -43,70 +43,70 @@ featured: true
 
 这片海，它的蓝，是如此纯净。
 
-![|inline](https://i2.100024.xyz/2023/09/22/vpyd0p.webp)
+![|inline](https://pic.imgdb.cn/item/650d87b9c458853aef52d59c.jpg)
 
 新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
-![|inline](https://i2.100024.xyz/2023/09/22/vpz3k2.webp)
+![|inline](https://pic.imgdb.cn/item/650d87b8c458853aef52d4ca.jpg)
 
 ## 澳门伦敦人
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/6B6D35D3-728A-42CE-AAB4-BD0C9C4ADDC0-33958-000009890C3612EE.jpeg)
+![|inline](https://pic.imgdb.cn/item/650d87b8c458853aef52d4ca.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/E8C0452E-8C89-4BD1-A39D-6A09D7A4E657-34289-000009BD2383699C.jpeg)
+![|inline](https://pic.imgdb.cn/item/650d87bac458853aef52d8f5.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/4F744841-83FA-4677-8826-AC070C85AE54-33958-0000098A2824A216.jpeg)
+![|inline](https://pic.imgdb.cn/item/650d87bac458853aef52d843.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSCF6816.jpeg)
+![](https://pic.imgdb.cn/item/650dab57c458853aef7e8cf4.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSCF6743.jpeg)
+![](https://pic.imgdb.cn/item/650dab58c458853aef7e8f52.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSCF6828.jpeg)
+![](https://pic.imgdb.cn/item/650dab58c458853aef7e8e36.jpg)
 
 ## 漫步在澳门街头
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](https://s1.imagehub.cc/images/2023/09/20/IMG_8651.jpeg)
+![](https://pic.imgdb.cn/item/650dab59c458853aef7e91cf.jpg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://s1.imagehub.cc/images/2023/09/20/4001B16F-B45C-44B3-8FF5-7198B0785496-34289-000009B3EA8D2297.jpeg)
+![](https://pic.imgdb.cn/item/650dab5ac458853aef7e946b.jpg)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](https://s1.imagehub.cc/images/2023/09/20/IMG_8675.jpeg)
+![](https://pic.imgdb.cn/item/650dac0dc458853aef807479.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/59A523CE-ABE1-484D-BB25-EF38293DB7EC-34289-000009B7D554FDD2.jpeg)
+![](https://pic.imgdb.cn/item/650dac0ec458853aef807615.jpg)
 
-![与来自迪拜的朋友见面，并合影留念](https://s1.imagehub.cc/images/2023/09/20/IMG_6439.jpeg)
+![与来自迪拜的朋友见面，并合影留念](https://pic.imgdb.cn/item/650dac67c458853aef8164c3.jpg)
 
 ## 珠海大剧院
 
-![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://s1.imagehub.cc/images/2023/09/20/3380991C-9AB0-4689-A7BE-4870E1CE2641-17769-000004768F049B79.jpeg)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://pic.imgdb.cn/item/650dac0ec458853aef8077ad.jpg)
 
-![晚霞如火如荼，美得像一幅油画](https://s1.imagehub.cc/images/2023/09/20/IMG_8338.jpeg)
+![晚霞如火如荼，美得像一幅油画](https://pic.imgdb.cn/item/650dac82c458853aef8168cf.jpg)
 
-![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://s1.imagehub.cc/images/2023/09/20/DSCF1163.jpeg)
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://pic.imgdb.cn/item/650dad27c458853aef818a39.jpg)
 
 
 ## 广州圣心大教堂
 
 广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSCF5827.jpeg)
+![](https://pic.imgdb.cn/item/650dad2ac458853aef818ab4.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSCF5813.jpeg)
+![](https://pic.imgdb.cn/item/650dad28c458853aef818a67.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/IMG_4939.jpeg)
+![|inline](https://pic.imgdb.cn/item/650dae8ec458853aef822089.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/DSCF5832.jpeg)
+![|inline](https://pic.imgdb.cn/item/650dad2cc458853aef818b33.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/F608BA6F-8E53-4981-BB93-462BF4A21554-29941-0000088824E034CD.jpeg)
+![|inline](https://pic.imgdb.cn/item/650dae8dc458853aef82206a.jpg)
 
-![|inline](https://s1.imagehub.cc/images/2023/09/20/DSCF5828.jpeg)
+![|inline](https://pic.imgdb.cn/item/650dad2bc458853aef818af5.jpg)
 
 ## 广州
 
