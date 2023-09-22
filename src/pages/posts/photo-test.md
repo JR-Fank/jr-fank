@@ -21,7 +21,7 @@ featured: true
 ## 香港维多利亚港
 前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
 
-![](https://z1.ax1x.com/2023/09/22/pPosU9x.jpg)
+![](https://pic.imgdb.cn/item/650d85eec458853aef4f87ea.jpg)
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
