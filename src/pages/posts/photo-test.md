@@ -23,10 +23,6 @@ featured: true
 
 ![](https://s1.imagehub.cc/images/2023/09/19/2E18885A-FCBA-45CA-892D-25A16990F960-29354-0000081000AD08D7.jpeg)
 
-![](https://i2.100024.xyz/2023/09/22/afg6y.webp)
-
-![](/DSCF5828.jpeg)
-
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
 ![](https://s1.imagehub.cc/images/2023/09/19/DSCF1238.jpeg)
