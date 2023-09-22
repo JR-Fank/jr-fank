@@ -53,35 +53,35 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://pic.imgdb.cn/item/650d87b9c458853aef52d686.jpg)
+![|inline](/photo/10.JPG)
 
-![|inline](https://pic.imgdb.cn/item/650d87bac458853aef52d8f5.jpg)
+![|inline](/photo/11.JPG)
 
-![|inline](https://pic.imgdb.cn/item/650d87bac458853aef52d843.jpg)
+![|inline](/photo/12.JPG)
 
-![](https://pic.imgdb.cn/item/650dab57c458853aef7e8cf4.jpg)
+![](/photo/13.jpeg)
 
-![](https://pic.imgdb.cn/item/650dab58c458853aef7e8f52.jpg)
+![](/photo/14.jpeg)
 
-![](https://pic.imgdb.cn/item/650dab58c458853aef7e8e36.jpg)
+![](/photo/15.jpeg)
 
 ## 漫步在澳门街头
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](https://pic.imgdb.cn/item/650dab59c458853aef7e91cf.jpg)
+![](/photo/16.jpeg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://pic.imgdb.cn/item/650dab5ac458853aef7e946b.jpg)
+![](/photo/17.JPG)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](https://pic.imgdb.cn/item/650dac0dc458853aef807479.jpg)
+![](/photo/18.jpeg)
 
-![](https://pic.imgdb.cn/item/650dac0ec458853aef807615.jpg)
+![](/photo/19.JPG)
 
-![与来自迪拜的朋友见面，并合影留念](https://pic.imgdb.cn/item/650dac67c458853aef8164c3.jpg)
+![与来自迪拜的朋友见面，并合影留念](/photo/20.JPG)
 
 ## 珠海大剧院
 
