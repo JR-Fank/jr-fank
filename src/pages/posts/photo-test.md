@@ -21,33 +21,33 @@ featured: true
 ## 香港维多利亚港
 前景中的摩天轮就像巨人的眼睛，凝视着这壮丽的景象。
 
-![](/photo/2.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlueW.jpeg)
 
 夜幕降临，城市的霓虹灯绚丽绽放，与夜空交相辉映，如梦如幻。
 
-![](/photo/3.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlS6J.jpeg)
 
-![](/photo/4.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pl79v.jpeg)
 
 繁忙的出租车穿梭在城市的大街小巷，载着梦想和期望。
 
-![](/photo/5.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlQMe.jpeg)
 
 在生活的节奏中匆匆前行。
 
-![](/photo/6.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlRu3.jpeg)
 
 穿过繁华的街道，我们来到了坚尼地城新海旁。
 
-![](/photo/7.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Plcd9.jpeg)
 
 这片海，它的蓝，是如此纯净。
 
-![|inline](/photo/8.jpeg)
+![|inline](https://i.imgs.ovh/2023/09/23/PlgFO.jpeg)
 
 新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
-![|inline](/photo/9.jpeg)
+![|inline](https://i.imgs.ovh/2023/09/23/PltsH.jpeg)
 
 ## 澳门伦敦人
 
