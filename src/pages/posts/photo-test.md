@@ -69,50 +69,50 @@ featured: true
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](/photo/16.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnAkV.jpeg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](/photo/17.JPG)
+![](https://i.imgs.ovh/2023/09/23/PnZgJ.jpeg)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](/photo/18.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnlNW.jpeg)
 
-![](/photo/19.JPG)
+![](https://i.imgs.ovh/2023/09/23/PnHpv.jpeg)
 
-![与来自迪拜的朋友见面，并合影留念](/photo/20.JPG)
+![与来自迪拜的朋友见面，并合影留念](https://i.imgs.ovh/2023/09/23/PnM7e.jpeg)
 
 ## 珠海大剧院
 
-![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://pic.imgdb.cn/item/650dac0ec458853aef8077ad.jpg)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://i.imgs.ovh/2023/09/23/PnpD3.jpeg)
 
-![晚霞如火如荼，美得像一幅油画](https://pic.imgdb.cn/item/650dac82c458853aef8168cf.jpg)
+![晚霞如火如荼，美得像一幅油画](https://i.imgs.ovh/2023/09/23/Pn3A9.jpeg)
 
-![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://pic.imgdb.cn/item/650dad27c458853aef818a39.jpg)
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://i.imgs.ovh/2023/09/23/PnfxO.jpeg)
 
 
 ## 广州圣心大教堂
 
 广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-![](https://pic.imgdb.cn/item/650dad2ac458853aef818ab4.jpg)
+![](https://i.imgs.ovh/2023/09/23/PnmjH.jpeg)
 
-![](https://pic.imgdb.cn/item/650dad28c458853aef818a67.jpg)
+![](https://i.imgs.ovh/2023/09/23/Pn0tA.jpeg)
 
-![|inline](https://pic.imgdb.cn/item/650dae8ec458853aef822089.jpg)
+![|inline](https://i.imgs.ovh/2023/09/23/PnWVD.jpeg)
 
-![|inline](https://pic.imgdb.cn/item/650dad2cc458853aef818b33.jpg)
+![|inline](https://i.imgs.ovh/2023/09/23/Pnkko.jpeg)
 
-![|inline](https://pic.imgdb.cn/item/650dae8dc458853aef82206a.jpg)
+![|inline](https://i.imgs.ovh/2023/09/23/Pnhws.jpeg)
 
-![|inline](https://pic.imgdb.cn/item/650dad2bc458853aef818af5.jpg)
+![|inline](https://i.imgs.ovh/2023/09/23/PnBN5.jpeg)
 
 ## 广州
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSC02192.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnxDU.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/20/IMG_1236.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnsOX.jpeg)
 
 ## 人来人往
 
