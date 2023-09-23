@@ -53,17 +53,17 @@ featured: true
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](/photo/10.JPG)
+![|inline](https://i.imgs.ovh/2023/09/23/PlBSd.jpeg)
 
-![|inline](/photo/11.JPG)
+![|inline](https://i.imgs.ovh/2023/09/23/Pl0Ml.jpeg)
 
-![|inline](/photo/12.JPG)
+![|inline](https://i.imgs.ovh/2023/09/23/PlIdK.jpeg)
 
-![](/photo/13.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlsF2.jpeg)
 
-![](/photo/14.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Plxhj.jpeg)
 
-![](/photo/15.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PlKUI.jpeg)
 
 ## 漫步在澳门街头
 
