@@ -118,84 +118,84 @@ featured: true
 
 开始延时摄影后，我在一旁观看寺庙周围的一切。随着游客们一个接一个地离开，寺庙里渐渐安静下来，只有微风拂过树木的声音和远处车辆的杂音。这种宁静让我平静下来，仿佛进入了一个完全不同的世界。
 
-![广州北京路普觉楼](https://s1.imagehub.cc/images/2023/09/20/DSCF5869.jpeg)
+![广州北京路普觉楼](https://i.imgs.ovh/2023/09/23/PnOkN.jpeg)
 
 ## 深圳华润大厦
 
 我拍摄了这座现代城市的魅力，它的摩天大楼就像一头头猛兽。
 
-![](https://s1.imagehub.cc/images/2023/09/20/DSC02882.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pn7Lm.jpeg)
 
 ![](https://s1.imagehub.cc/images/2023/09/21/IMG_1764.jpeg)
 
 ## 深圳文和友
 
-![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://s1.imagehub.cc/images/2023/09/21/D6F6BF1A-3DBD-42A9-AC87-FB401D5758B2-27149-000006829F3B371B.jpeg)
+![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://i.imgs.ovh/2023/09/23/PnRap.jpeg)
 
-![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://s1.imagehub.cc/images/2023/09/21/6FD8A020-87E1-4AC8-B77D-337E47C12B02-27149-00000682B64979E2-1.jpeg)
+![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://i.imgs.ovh/2023/09/23/PnewT.jpeg)
 
 ## 杨千嬅
 
-![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://s1.imagehub.cc/images/2023/09/21/DSCF6919-2.jpeg)
+![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://i.imgs.ovh/2023/09/23/PntEl.jpeg)
 
-![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://s1.imagehub.cc/images/2023/09/21/DSCF7161-2.jpeg)
+![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://i.imgs.ovh/2023/09/23/PngOu.jpeg)
 
 ## 凝视这一瞬间
 
 傍晚，路上车水马龙。车灯闪烁，呼啸声充斥耳畔。此时此刻，他或许在思考生活的匆忙，或许在思索内心的追求。光与影的交错映衬出他深邃的眼神，似乎在寻找答案。
 
-![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://s1.imagehub.cc/images/2023/09/21/DSC00044.jpeg)
+![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://i.imgs.ovh/2023/09/23/PnJZd.jpeg)
 
 ## 人像摄影
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC03100.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnzKK.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC03225.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnU42.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC00506.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnjLj.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC00066.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pn40I.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC00523.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pn51V.jpeg)
 
 ## 发现优秀的产品设计
 
 各种产品的设计之美给我留下了深刻印象。这让我想起了我读过的一本书《史蒂夫-乔布斯传》。
 乔布斯追求完美的精神和独特的设计理念让我受益匪浅。每张照片都是设计的写照，传达着人的思想和情感。
 
-![](https://s1.imagehub.cc/images/2023/09/21/nt16-2021-08-18-110341.899.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHH1N.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC03306.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PnYaJ.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02145.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pn83W.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC00594.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHCvA.jpeg)
 
 ## 绚丽的烟花
 
 2023年的春节，迎来了一场绚丽的烟花盛宴。寒冷的冬夜，我的心却是暖暖的。这些照片将永远留在我的心里，见证我和家人一起度过的温暖春节，记录下美好瞬间的珍贵记忆。
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02448.jpeg)
+![](https://i.imgs.ovh/2023/09/23/Pnv0D.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02456.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHV35.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02457.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHLQs.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02459.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHXTX.jpeg)
 
-![年夜饭](https://s1.imagehub.cc/images/2023/09/21/IMG_3018.jpeg)
+![年夜饭](https://i.imgs.ovh/2023/09/23/PH2lU.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02433.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHA5C.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02491.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHFb0.jpeg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/DSC02479.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHlXt.jpeg)
 
 ## 触发食物味蕾
 
 每一帧都是味觉和视觉的盛宴，记录下这些美丽的瞬间让我感到满满的幸福。
 
-![](https://s1.imagehub.cc/images/2023/09/21/IMG_1088_jpg.jpeg)
+![](https://i.imgs.ovh/2023/09/23/PHMvR.jpeg)
 
 ![](https://s1.imagehub.cc/images/2023/09/21/IMG_5680.jpeg)
 
