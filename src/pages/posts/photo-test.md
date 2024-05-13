@@ -43,27 +43,27 @@ featured: true
 
 这片海，它的蓝，是如此纯净。
 
-![|inline](https://i.imgs.ovh/2023/09/23/PlgFO.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715616981.jpeg)
 
 新海滨的宁静与城市的喧嚣形成了鲜明的对比。
 
-![|inline](https://i.imgs.ovh/2023/09/23/PltsH.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715617052.jpeg)
 
 ## 澳门伦敦人
 
 金碧辉煌的建筑和深厚的历史底蕴，以及俯瞰全城的高耸钟楼，让人仿佛时间静止。
 
-![|inline](https://i.imgs.ovh/2023/09/23/PlBSd.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715617085.jpg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/Pl0Ml.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715617116.jpg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/PlIdK.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715617224.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PlsF2.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617283.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/Plxhj.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617311.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/PlKUI.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617381.jpeg)
 
 ## 漫步在澳门街头
 
