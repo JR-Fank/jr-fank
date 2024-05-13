@@ -69,64 +69,64 @@ featured: true
 
 阳光洒在大三巴古老的城墙上，美得令人窒息。
 
-![](https://i.imgs.ovh/2023/09/23/PnAkV.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617537.jpeg)
 
 最迷人的是，远处的新葡京酒店映入镜头，如梦如幻。
 
-![](https://i.imgs.ovh/2023/09/23/PnZgJ.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617563.jpg)
 
 这是澳门传统与现代交汇的迷人时刻。
 
-![](https://i.imgs.ovh/2023/09/23/PnlNW.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617879.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/PnHpv.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715617906.jpg)
 
-![与来自迪拜的朋友见面，并合影留念](https://i.imgs.ovh/2023/09/23/PnM7e.jpeg)
+![与来自迪拜的朋友见面，并合影留念](https://r1.aagtool.top/pic/2024/05/14/1715617930.jpg)
 
 ## 珠海大剧院
 
-![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://i.imgs.ovh/2023/09/23/PnpD3.jpeg)
+![2023 年夏天，我和大学同学组织了一次 "特种兵式旅游"，在短时间内参观了许多景点](https://r1.aagtool.top/pic/2024/05/14/1715618011.jpg)
 
-![晚霞如火如荼，美得像一幅油画](https://i.imgs.ovh/2023/09/23/Pn3A9.jpeg)
+![晚霞如火如荼，美得像一幅油画](https://r1.aagtool.top/pic/2024/05/14/1715618064.jpeg)
 
-![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://i.imgs.ovh/2023/09/23/PnfxO.jpeg)
+![湖面上倒映着日月贝，像两颗镶嵌在大地上的珍珠](https://r1.aagtool.top/pic/2024/05/14/1715618103.jpeg)
 
 
 ## 广州圣心大教堂
 
 广州圣心大教堂内，人们在默默祈祷，我静静地拍下了这一场景，感受到了一种宁静平和的力量。
 
-![](https://i.imgs.ovh/2023/09/23/PnmjH.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618146.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/Pn0tA.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618191.jpeg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/PnWVD.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715618213.jpeg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/Pnkko.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715618248.jpeg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/Pnhws.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715618276.jpeg)
 
-![|inline](https://i.imgs.ovh/2023/09/23/PnBN5.jpeg)
+![|inline](https://r1.aagtool.top/pic/2024/05/14/1715618296.jpeg)
 
 ## 广州
 
-![](https://i.imgs.ovh/2023/09/23/PnxDU.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618321.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/PnsOX.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618351.jpg)
 
 ## 人来人往
 
 开始延时摄影后，我在一旁观看寺庙周围的一切。随着游客们一个接一个地离开，寺庙里渐渐安静下来，只有微风拂过树木的声音和远处车辆的杂音。这种宁静让我平静下来，仿佛进入了一个完全不同的世界。
 
-![广州北京路普觉楼](https://i.imgs.ovh/2023/09/23/PnOkN.jpeg)
+![广州北京路普觉楼](https://r1.aagtool.top/pic/2024/05/14/1715618377.jpeg)
 
 ## 深圳华润大厦
 
 我拍摄了这座现代城市的魅力，它的摩天大楼就像一头头猛兽。
 
-![](https://i.imgs.ovh/2023/09/23/Pn7Lm.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618418.jpg)
 
-![](https://s1.imagehub.cc/images/2023/09/21/IMG_1764.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715618442.jpg)
 
 ## 深圳文和友
 
