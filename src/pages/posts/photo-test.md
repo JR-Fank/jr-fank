@@ -39,7 +39,7 @@ featured: true
 
 穿过繁华的街道，我们来到了坚尼地城新海旁。
 
-![](https://i.imgs.ovh/2023/09/23/Plcd9.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715616890.jpeg)
 
 这片海，它的蓝，是如此纯净。
 
