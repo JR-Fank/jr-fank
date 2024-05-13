@@ -130,100 +130,100 @@ featured: true
 
 ## 深圳文和友
 
-![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://i.imgs.ovh/2023/09/23/PnRap.jpeg)
+![一列火车突然呼啸而过。我迅速按下快门，拍下了火车穿过文和路的瞬间](https://r1.aagtool.top/pic/2024/05/14/1715619096.jpg)
 
-![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://i.imgs.ovh/2023/09/23/PnewT.jpeg)
+![火车的轨迹与文和友的建筑形成了有趣的对比，反映了深圳这座城市快节奏的生活，凸显了现代与传统的交汇](https://r1.aagtool.top/pic/2024/05/14/1715619112.jpg)
 
 ## 杨千嬅
 
-![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://i.imgs.ovh/2023/09/23/PntEl.jpeg)
+![今天是个非常幸运的日子！我终于实现了多年来的梦想，看到了我最喜欢的歌手杨千嬅的演唱会。我拍了一些她美丽瞬间的照片。每次看到这些照片，我仿佛听到了她动人的歌声，就像音符一样跳跃。](https://r1.aagtool.top/pic/2024/05/14/1715619200.jpg)
 
-![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://i.imgs.ovh/2023/09/23/PngOu.jpeg)
+![这次经历让我更加热爱摄影，因为它不仅能捕捉美，还能记录下我心中珍贵的瞬间。杨千嬅的演唱会将永远留在我的记忆中，而这些照片也成为这段美好经历的珍贵见证。](https://r1.aagtool.top/pic/2024/05/14/1715619289.jpg)
 
 ## 凝视这一瞬间
 
 傍晚，路上车水马龙。车灯闪烁，呼啸声充斥耳畔。此时此刻，他或许在思考生活的匆忙，或许在思索内心的追求。光与影的交错映衬出他深邃的眼神，似乎在寻找答案。
 
-![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://i.imgs.ovh/2023/09/23/PnJZd.jpeg)
+![这张照片让我想起每个人都在奔跑的旅途，同时也促使我反思生命的意义和方向。](https://r1.aagtool.top/pic/2024/05/14/1715619308.jpg)
 
 ## 人像摄影
 
-![](https://i.imgs.ovh/2023/09/23/PnzKK.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619513.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/PnU42.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619540.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/PnjLj.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619330.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/Pn40I.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619354.jpeg)
 
-![](https://i.imgs.ovh/2023/09/23/Pn51V.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619418.jpeg)
 
 ## 发现优秀的产品设计
 
 各种产品的设计之美给我留下了深刻印象。这让我想起了我读过的一本书《史蒂夫-乔布斯传》。
 乔布斯追求完美的精神和独特的设计理念让我受益匪浅。每张照片都是设计的写照，传达着人的思想和情感。
 
-![](https://i.imgs.ovh/2023/09/23/PHH1N.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619577.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PnYaJ.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619600.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/Pn83W.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619635.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHCvA.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619666.jpg)
 
 ## 绚丽的烟花
 
 2023年的春节，迎来了一场绚丽的烟花盛宴。寒冷的冬夜，我的心却是暖暖的。这些照片将永远留在我的心里，见证我和家人一起度过的温暖春节，记录下美好瞬间的珍贵记忆。
 
-![](https://i.imgs.ovh/2023/09/23/Pnv0D.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619689.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHV35.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619721.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHLQs.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619744.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHXTX.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619765.jpg)
 
-![年夜饭](https://i.imgs.ovh/2023/09/23/PH2lU.jpeg)
+![年夜饭](https://r1.aagtool.top/pic/2024/05/14/1715619792.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHA5C.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619814.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHFb0.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619836.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHlXt.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619856.jpg)
 
 ## 触发食物味蕾
 
 每一帧都是味觉和视觉的盛宴，记录下这些美丽的瞬间让我感到满满的幸福。
 
-![](https://i.imgs.ovh/2023/09/23/PHMvR.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619886.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHIBj.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619905.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHBr2.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619927.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHhJI.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619946.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PHsyV.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619963.jpg)
 
 ## 月球表面
 
 2023 年 6 月 4 日，相机定格在月球表面，皎洁的月光照亮了月球的高山和深谷。细节清晰可见，仿佛能感受到尘埃的质感。月球上的环形山和纹路也清晰可辨，仿佛是时间的见证者。这张照片成了我记录这个奇妙夜晚的珍贵藏品。月光照耀下的月球表面，永远是我心中最美的画面。
 
-![](https://i.imgs.ovh/2023/09/23/PM6eA.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715619983.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PMm6o.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715620012.jpg)
 
 ## 我的家乡 - 汕头
 
 这就是我的家乡汕头，我住在靠海的地方，城市的夜晚灯火通明，像星星点点的钻石散落在黑夜里。海风习习，让人心旷神怡。远处的船只在海面上熠熠生辉，仿佛黑夜里的精灵。此时此刻，汕头展现出她不同寻常的美
 
-![](https://i.imgs.ovh/2023/09/23/PMW95.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715620042.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PM0Ms.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715620084.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PMIdU.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715620134.jpg)
 
-![](https://i.imgs.ovh/2023/09/23/PMBuX.jpeg)
+![](https://r1.aagtool.top/pic/2024/05/14/1715620159.jpg)
 
 ## 品牌设计
 
