@@ -5,8 +5,8 @@ pubDate: 2019-11-11
 description: '这款“小玩意”用更小的体积，兼容的协议直接完胜了Apple 87w以及之前某联那款标榜65W、实测50W达不到的要强得多。'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/qqrsf7.jpg'
-    square: 'https://p.ipic.vip/qqrsf7.jpg'
+    url: 'https://i.urusai.cc/sxCkB.jpg'
+    square: 'https://i.urusai.cc/sxCkB.jpg'
     alt: 'cover'
 tags: ["充电器", "测评", "Apple","原创"]
 theme: 'dark'
@@ -164,3 +164,4 @@ RAVPower 使用几天下来，优点很明显，缺点也随之而来，
 透过这一个小小的 RAVPower 61w充电器可以看出氮化镓技术的成熟，充电器的功率越做越大，产品的体积却越做越小。PD快充与氮化镓的结合，一定是今后快充行业的趋势所在。让大家能享受到大功率带来的快速充电体验，以及产品体积变小收纳携带的省心。氮化镓快充产品也正随着市场需求量加大，技术的增长使得成本的降低，价格走向亲民化，让每一个人都能享受到科技发展带来的便利。
 
 最后再次感谢 Zealer 提供的产品体验！祝 Zaaap 越来越好
+
