@@ -5,8 +5,8 @@ pubDate: 2020-05-20
 description: '然而最近收到的 CHOETECH迪奥科10000mAh 18W双向快充移动电源，再一次让我感受到轻薄这两个字……'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/gnv5ic.jpg'
-    square: 'https://p.ipic.vip/gnv5ic.jpg'
+    url: 'https://i.urusai.cc/rPXzj.jpg'
+    square: 'https://i.urusai.cc/rPXzj.jpg'
     alt: 'cover'
 tags: ["移动电源", "测评", "Apple","原创"]
 theme: 'light'
@@ -97,4 +97,5 @@ B627 锂离子电池能量：10000mAh/3.7V/37Wh额定容量：6200mAh（5V/2A TY
 当然对于现阶段的充电宝来说，已经做得挺不错了，这又将成为我的出行必备物……
 
 好了！这就是这款好物的全部内容了，非常感谢你能看到这里，这篇文章主要还是我个人对这款充电宝的体验，如果你觉得文章还不错的话，关注转发推荐，这是我写文章的最大动力！
+
 
