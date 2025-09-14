@@ -5,8 +5,8 @@ pubDate: 2019-12-21
 description: '倍思这款极薄无线充电器在一定程度上确实也是可以方便我们的，特别是它只有 3cm的厚度，哪怕是摆设也特别好看！'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/kyv37t.jpg'
-    square: 'https://p.ipic.vip/kyv37t.jpg'
+    url: 'https://i.urusai.cc/8hGV0.jpg'
+    square: 'https://i.urusai.cc/8hGV0.jpg'
     alt: 'cover'
 tags: ["无线充电器", "测评", "充电器","原创"]
 theme: 'light'
@@ -152,3 +152,4 @@ featured: false
 以上就是本期测评的所有内容啦！
 如果你有更好的想法欢迎下方留言评论，
 更多精彩内容关注点赞，争取下期新内容的出现！
+
