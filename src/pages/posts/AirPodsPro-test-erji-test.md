@@ -5,8 +5,8 @@ pubDate: 2020-07-07
 description: '苹果 AirPods Pro 上市的一个星期后，市面上各种铺天盖地的三代耳机就出炉了但做工都十分的粗糙'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/ocdtfx.JPG'
-    square: 'https://p.ipic.vip/ocdtfx.JPG'
+    url: 'https://i.urusai.cc/Xcb7g.JPG'
+    square: 'https://i.urusai.cc/Xcb7g.JPG'
     alt: 'cover'
 tags: ["AirPods Pro", "测评", "Apple","原创"]
 theme: 'dark'
@@ -165,3 +165,4 @@ featured: false
 总之，想要好的三代洛达耳机，细节做工肯定不会特别差，不散光原版灯也只有洛达才有，还有那些最最基本的改名定位，不跳电这些现在都是标配的了，价格上，低于 150的99%是老版本体感升级的！
 
 你们催更的三代终于写完了，晕厥……如果你对耳机感兴趣，欢迎私信讨论！
+
