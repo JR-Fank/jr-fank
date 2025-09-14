@@ -5,8 +5,8 @@ pubDate: 2020-12-09
 description: '这个“心想即热”饮水机的到来对我来说还真有点及时，我也非常好奇这个“小家伙”是如何让我“心想即热”的喝水的！'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/udjgn9.jpg'
-    square: 'https://p.ipic.vip/udjgn9.jpg'
+    url: 'https://i.urusai.cc/RP5be.jpg'
+    square: 'https://i.urusai.cc/RP5be.jpg'
     alt: 'cover'
 tags: ["饮水机", "产品", "测评","充电器"]
 theme: 'dark'
