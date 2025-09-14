@@ -5,8 +5,8 @@ pubDate: 2020-03-29
 description: 'Anker 的这个超极充，很早之前就开始关注了。看到这个充电宝&充电器的合体，觉得挺有意思的，马上入手体验'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/rllpbh.JPG'
-    square: 'https://p.ipic.vip/rllpbh.JPG'
+    url: 'https://i.urusai.cc/x1ySB.JPG'
+    square: 'https://i.urusai.cc/x1ySB.JPG'
     alt: 'cover'
 tags: ["充电器", "移动电源","Anker", "原创"]
 theme: 'dark'
