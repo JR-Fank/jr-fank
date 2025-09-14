@@ -5,8 +5,8 @@ pubDate: 2022-07-14
 description: '2022年7月14日 01:38'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/kjsiwp.JPG'
-    square: 'https://p.ipic.vip/kjsiwp.JPG'
+    url: 'https://i.urusai.cc/9Io8v.jpg'
+    square: 'https://i.urusai.cc/9Io8v.jpg'
     alt: 'cover'
 tags: ["游戏手柄", "Apple","原创","测评"] 
 theme: 'dark'
