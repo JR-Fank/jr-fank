@@ -5,8 +5,8 @@ pubDate: 2020-04-30
 description: '出门带上它一个就够了，并且 IDMIX旅行充还可以给支持无线充电的数码设备进行无线充'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/4q46iv.JPG'
-    square: 'https://p.ipic.vip/4q46iv.JPG'
+    url: 'https://i.urusai.cc/3Yqc8.JPG'
+    square: 'https://i.urusai.cc/3Yqc8.JPG'
     alt: 'cover'
 tags: ["移动电源", "充电器", "测评", "原创"]
 theme: 'light'
