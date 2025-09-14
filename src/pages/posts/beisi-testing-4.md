@@ -5,8 +5,8 @@ pubDate: 2020-10-10
 description: '倍思散热背夹可以说是重度游戏玩家的神器，特别是对于追求游戏性能的玩家'
 author: 'Chen shilin'
 cover:
-    url: 'https://p.ipic.vip/mnhsld.JPG'
-    square: 'https://p.ipic.vip/mnhsld.JPG'
+    url: 'https://i.urusai.cc/vmb5W.JPG'
+    square: 'https://i.urusai.cc/vmb5W.JPG'
     alt: 'cover'
 tags: ["散热器", "测评", "Apple","原创"] 
 theme: 'dark'
