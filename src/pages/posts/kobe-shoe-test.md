@@ -14,6 +14,7 @@ featured: false
 ---
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115225449799172&bvid=BV1PkWNzYEH8&cid=32468963138&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115225449799172&bvid=BV1PkWNzYEH8&cid=32468963138&p=1" scrolling="no" border="0" height="500" width="100%" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
+
 
