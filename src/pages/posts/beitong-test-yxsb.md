@@ -69,7 +69,7 @@ featured: true
 
 三段式扳机锁还可以针对不同的游戏进行精准调教，像我跑这款竞速游戏调至全档能更直接感受到油门的响应，射击游戏调到微档，可以更快的出枪射击。
 
-![](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/6a0726efb697b78ef62e5fb3ded8311a.jpg)
+![](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/d37dca09b5cb5ff0e77c86f8a0b6e18f.JPG)
 
 内置的两颗震动马达使得在游戏中能有更好的沉浸式体验。
 
@@ -77,7 +77,7 @@ featured: true
 
 对于重度爱好者，这款北通阿修罗3S游戏手柄还支持通过PC版北通游戏厅连接来对手柄进行个性化配置，同时还支持宏编程，一键连招不再是问题。
 
-![](https://zaaap-1254235226.cos.ap-guangzhou.myqcloud.com/long_pic/2022/07/14/20220714190259614.jpg?size=2880x1720&imageMogr2/format/jpeg/quality/60)
+![](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/83e4f2219d716b06bb69b36d30f0447f.jpg)
 
 客户端界面简洁易赅，键位设置、灵敏度设置、多级震动强度等，甚至还有专属 RGB 色彩定制，满足任何使用需求。
 
