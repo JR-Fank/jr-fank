@@ -25,9 +25,9 @@ keywords: key1, key2, key3
 
 很难相信早前我最钟意的“硬糖充电器”在今年迎来了第二代的升级，如果你有所耳闻它的前身，很难不心动今年的新款，该有的一系列快充协议都不在话下，最高输出来到了35w ，为你的爱机设备包含 iPhone 14 系列在内的所有手机快速充电，一整个实用性进一步提升
 
-![DSC02141](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/6ef75674d3ff0f5c6f62f7d0e64700a4.JPG)
+![](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/4c5f6014c098bd4375e47bf79d44f3ec.JPG)
 
-![IMG_0716](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/286e1ea57e295849263ea64cf1be7b5d.JPG)
+![](https://pub-b77c94666be64a13927d2c400e58dd0f.r2.dev/2026/04/9e92e26f7fd6e72d152c6394e8eb8d4d.JPG)
 
 ## ｜看看长啥样？
 
