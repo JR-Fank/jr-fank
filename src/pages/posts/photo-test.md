@@ -5,9 +5,9 @@ pubDate: 2023-09-09
 description: '摄影不仅是我的爱好，也是我表达和记录生活的一种方式。这些照片不仅仅是图像，它们背后都有一个故事，代表着我经历过的特殊时刻和情感。我希望通过我的作品将它们一一传达。'
 author: 'Chen shilin'
 cover:
-    url: 'https://i.urusai.cc/A8juc.JPG'
-    square: 'https://i.urusai.cc/A8juc.JPG'
-    alt: 'cover'
+    url: '/photo/portfolio-cover-hk-street.avif'
+    square: '/photo/portfolio-cover-hk-street.avif'
+    alt: '香港街头斑马线'
 tags: ["摄影作品集", "原创","日常","摄影"] 
 theme: 'dark'
 featured: true
