@@ -1,0 +1,560 @@
+{
+  "schema_version": 1,
+  "description": "Photo article image URL restoration mapping; only 67 confirmed URLs switched; brand graphics pending.",
+  "production_base_url": "https://img.jrfank.cc/",
+  "verification_note": "Source objects previously checked via r2.dev. Production hostname HTTP not independently verified in this environment. Cross-network/CDN verification required.",
+  "entries": [
+    {
+      "image_position": 1,
+      "original_url": "https://p.ipic.vip/e5sg12.jpeg",
+      "r2_object_key": "blog/photography/01.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/01.jpeg",
+      "local_filename": "DSCF1208.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 2,
+      "original_url": "https://p0.hotpe.top/i/p/10/65e32e3039df2.jpeg",
+      "r2_object_key": "blog/photography/02.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/02.jpeg",
+      "local_filename": "2.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 3,
+      "original_url": "https://p0.hotpe.top/i/p/10/65e32e30c61e9.jpeg",
+      "r2_object_key": "blog/photography/03.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/03.jpeg",
+      "local_filename": "3.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 4,
+      "original_url": "https://p0.hotpe.top/i/p/10/65e32e31e8845.jpeg",
+      "r2_object_key": "blog/photography/04.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/04.jpeg",
+      "local_filename": "4.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 5,
+      "original_url": "https://p0.hotpe.top/i/p/10/65e32e319c19b.jpeg",
+      "r2_object_key": "blog/photography/05.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/05.jpeg",
+      "local_filename": "5.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 6,
+      "original_url": "https://p0.hotpe.top/i/p/10/65e32c4cb4744.jpeg",
+      "r2_object_key": "blog/photography/06.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/06.jpeg",
+      "local_filename": "6.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 7,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715616890.jpeg",
+      "r2_object_key": "blog/photography/07.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/07.jpeg",
+      "local_filename": "7.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 8,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715616981.jpeg",
+      "r2_object_key": "blog/photography/08.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/08.jpeg",
+      "local_filename": "8.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 9,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617052.jpeg",
+      "r2_object_key": "blog/photography/09.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/09.jpeg",
+      "local_filename": "9.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 10,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617085.jpg",
+      "r2_object_key": "blog/photography/10.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/10.jpg",
+      "local_filename": "10.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 11,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617116.jpg",
+      "r2_object_key": "blog/photography/11.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/11.jpg",
+      "local_filename": "11.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 12,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617224.jpg",
+      "r2_object_key": "blog/photography/12.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/12.jpg",
+      "local_filename": "12.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 13,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617283.jpeg",
+      "r2_object_key": "blog/photography/13.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/13.jpeg",
+      "local_filename": "13.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 14,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617311.jpeg",
+      "r2_object_key": "blog/photography/14.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/14.jpeg",
+      "local_filename": "14.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 15,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617381.jpeg",
+      "r2_object_key": "blog/photography/15.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/15.jpeg",
+      "local_filename": "15.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 16,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617537.jpeg",
+      "r2_object_key": "blog/photography/16.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/16.jpeg",
+      "local_filename": "16.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 17,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617563.jpg",
+      "r2_object_key": "blog/photography/17.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/17.jpg",
+      "local_filename": "17.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 18,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617879.jpeg",
+      "r2_object_key": "blog/photography/18.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/18.jpeg",
+      "local_filename": "18.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 19,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617906.jpg",
+      "r2_object_key": "blog/photography/19.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/19.jpg",
+      "local_filename": "19.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 20,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715617930.jpg",
+      "r2_object_key": "blog/photography/20.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/20.jpg",
+      "local_filename": "20.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 21,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618011.jpg",
+      "r2_object_key": "blog/photography/21.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/21.jpg",
+      "local_filename": "21.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 22,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618064.jpeg",
+      "r2_object_key": "blog/photography/22.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/22.jpeg",
+      "local_filename": "22.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 23,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618103.jpeg",
+      "r2_object_key": "blog/photography/23.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/23.jpeg",
+      "local_filename": "23.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 24,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618146.jpeg",
+      "r2_object_key": "blog/photography/24.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/24.jpeg",
+      "local_filename": "24.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 25,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618191.jpeg",
+      "r2_object_key": "blog/photography/25.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/25.jpeg",
+      "local_filename": "25.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 26,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618213.jpeg",
+      "r2_object_key": "blog/photography/26.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/26.jpeg",
+      "local_filename": "26.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 27,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618248.jpeg",
+      "r2_object_key": "blog/photography/27.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/27.jpeg",
+      "local_filename": "27.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 28,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618276.jpeg",
+      "r2_object_key": "blog/photography/28.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/28.jpeg",
+      "local_filename": "28.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 29,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618296.jpeg",
+      "r2_object_key": "blog/photography/29.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/29.jpeg",
+      "local_filename": "29.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 30,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618321.jpeg",
+      "r2_object_key": "blog/photography/30.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/30.jpeg",
+      "local_filename": "30.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 31,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618351.jpg",
+      "r2_object_key": "blog/photography/31.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/31.jpg",
+      "local_filename": "31.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 32,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618377.jpeg",
+      "r2_object_key": "blog/photography/32.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/32.jpeg",
+      "local_filename": "32.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 33,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618418.jpg",
+      "r2_object_key": "blog/photography/33.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/33.jpg",
+      "local_filename": "33.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 34,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715618442.jpg",
+      "r2_object_key": "blog/photography/34.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/34.jpg",
+      "local_filename": "34.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 35,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619096.jpg",
+      "r2_object_key": "blog/photography/35.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/35.jpg",
+      "local_filename": "35.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 36,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619112.jpg",
+      "r2_object_key": "blog/photography/36.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/36.jpg",
+      "local_filename": "36.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 37,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619200.jpg",
+      "r2_object_key": "blog/photography/37.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/37.jpg",
+      "local_filename": "37.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 38,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619289.jpg",
+      "r2_object_key": "blog/photography/38.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/38.jpg",
+      "local_filename": "38.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 39,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619308.jpg",
+      "r2_object_key": "blog/photography/39.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/39.jpg",
+      "local_filename": "39.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 40,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619513.jpeg",
+      "r2_object_key": "blog/photography/40.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/40.jpeg",
+      "local_filename": "DSC03100.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 41,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619540.jpeg",
+      "r2_object_key": "blog/photography/41.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/41.jpeg",
+      "local_filename": "DSC03225.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 42,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619330.jpeg",
+      "r2_object_key": "blog/photography/42.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/42.jpeg",
+      "local_filename": "42.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 43,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619354.jpeg",
+      "r2_object_key": "blog/photography/43.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/43.jpeg",
+      "local_filename": "43.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 44,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619418.jpeg",
+      "r2_object_key": "blog/photography/44.jpeg",
+      "production_url": "https://img.jrfank.cc/blog/photography/44.jpeg",
+      "local_filename": "44.jpeg",
+      "status": "restored"
+    },
+    {
+      "image_position": 45,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619577.jpg",
+      "r2_object_key": "blog/photography/45.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/45.jpg",
+      "local_filename": "45.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 46,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619600.jpg",
+      "r2_object_key": "blog/photography/46.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/46.jpg",
+      "local_filename": "46.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 47,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619635.jpg",
+      "r2_object_key": "blog/photography/47.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/47.jpg",
+      "local_filename": "47.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 48,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619666.jpg",
+      "r2_object_key": "blog/photography/48.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/48.jpg",
+      "local_filename": "48.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 49,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619689.jpg",
+      "r2_object_key": "blog/photography/49.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/49.jpg",
+      "local_filename": "49.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 50,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619721.jpg",
+      "r2_object_key": "blog/photography/50.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/50.jpg",
+      "local_filename": "50.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 51,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619744.jpg",
+      "r2_object_key": "blog/photography/51.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/51.jpg",
+      "local_filename": "51.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 52,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619765.jpg",
+      "r2_object_key": "blog/photography/52.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/52.jpg",
+      "local_filename": "52.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 53,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619792.jpg",
+      "r2_object_key": "blog/photography/53.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/53.jpg",
+      "local_filename": "53.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 54,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619814.jpg",
+      "r2_object_key": "blog/photography/54.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/54.jpg",
+      "local_filename": "54.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 55,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619836.jpg",
+      "r2_object_key": "blog/photography/55.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/55.jpg",
+      "local_filename": "55.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 56,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619856.jpg",
+      "r2_object_key": "blog/photography/56.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/56.jpg",
+      "local_filename": "56.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 57,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619886.jpg",
+      "r2_object_key": "blog/photography/57.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/57.jpg",
+      "local_filename": "57.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 58,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619905.jpg",
+      "r2_object_key": "blog/photography/58.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/58.jpg",
+      "local_filename": "58.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 59,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619927.jpg",
+      "r2_object_key": "blog/photography/59.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/59.jpg",
+      "local_filename": "59.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 60,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619946.jpg",
+      "r2_object_key": "blog/photography/60.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/60.jpg",
+      "local_filename": "60.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 61,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619963.jpg",
+      "r2_object_key": "blog/photography/61.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/61.jpg",
+      "local_filename": "61.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 62,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715619983.jpg",
+      "r2_object_key": "blog/photography/62.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/62.jpg",
+      "local_filename": "62.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 63,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715620012.jpg",
+      "r2_object_key": "blog/photography/63.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/63.jpg",
+      "local_filename": "63.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 64,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715620042.jpg",
+      "r2_object_key": "blog/photography/64.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/64.jpg",
+      "local_filename": "64.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 65,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715620084.jpg",
+      "r2_object_key": "blog/photography/65.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/65.jpg",
+      "local_filename": "65.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 66,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715620134.jpg",
+      "r2_object_key": "blog/photography/66.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/66.jpg",
+      "local_filename": "66.JPG",
+      "status": "restored"
+    },
+    {
+      "image_position": 67,
+      "original_url": "https://r1.aagtool.top/pic/2024/05/14/1715620159.jpg",
+      "r2_object_key": "blog/photography/67.jpg",
+      "production_url": "https://img.jrfank.cc/blog/photography/67.jpg",
+      "local_filename": "67.jpg",
+      "status": "restored"
+    },
+    {
+      "image_position": 68,
+      "original_url": "https://p.ipic.vip/igpw88.png",
+      "r2_object_key": null,
+      "production_url": null,
+      "local_filename": null,
+      "status": "pending_source"
+    },
+    {
+      "image_position": 69,
+      "original_url": "https://p.ipic.vip/bbihii.jpg",
+      "r2_object_key": null,
+      "production_url": null,
+      "local_filename": null,
+      "status": "pending_source"
+    }
+  ]
+}
